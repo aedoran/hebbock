@@ -63,4 +63,40 @@ _Missing info. "Who leads the temple? Where is the dungeon? Which campaign does 
 
 ---
 
+## 🌋 Team C
+
+_Fresh from the second churn (Session Notes — Team C, 15 sessions, 2025-05-31 → 2026-05-17). Filed provisionally under a new world tier, `zazi/` — see Q1._
+
+### The world itself
+
+- [ ] **Q1 — Is Team C's world a separate world from Hebbock?** (Gulf of Daafia, Vontir Empire, Egyptian-flavored gods, Nkosi cat-people, Loxodons — feels like its own setting.) What's its **true name**, and is `zazi/` an acceptable slug (I only have the region/city "Zazi" and the wider "Gulf of Daafia")?
+- [ ] **Q2 — The Egyptian-flavored gods** — literally Egyptian (Ra, Bastet, Anubis…) or homegrown analogs? What's the name of the **fish-headed god** carved on the anglerfish doors?
+- [ ] **Q3 — The Chamber of Stars** — what is it, who built it, what are the **metal flying ships** in the flickering images, and what was the second arm's "ok symbol"? Are [[zazi/npcs/sandstone|Sandstone]] and [[zazi/npcs/zing|Zing]] its guardians, its crew, or its remnants? What organization do they belong to?
+- [ ] **Q4 — Time travel** — is the jump real travel ~20 years back, or a parallel world? (Lachma's attunement test in Session 9 was never resolved in the notes.)
+- [ ] **Q5 — What changed between past and present?** — Nkosi (common → gone/rare), Loxodons (rising kingdom → gone/lonely island), warforged (absent → the [[zazi/worldbuilding/northern-war|Northern War]]), Vontir (loose alignment → ?). Was it a single event, or many?
+
+### The pyramid & its dead
+
+- [ ] **Q6 — The mummy** — is it [[zazi/npcs/tiberesh|Tiberesh]] himself, or an **avatar of the [[zazi/worldbuilding/lost-one|Lost One]]** (Khortum's line: "Face the avatar of the Lost One!")? And the **blackened mummified hand** in the sarcophagus — whose is it?
+- [ ] **Q7 — The gypsosphinx** — which icon does Bishop "recognize"? What is the cylinder its paws guard, and what do the runestones (lion, scarab, cat, snake) open?
+- [ ] **Q8 — The second pyramid** — the "great sand pyramid" near the charnel house is explicitly *not* the pyramid of Tiberesh — what is it?
+
+### The party & the NPCs
+
+- [ ] **Q9 — The campaign's true title** — "Team C" is just the filename; the party calls itself "the avengers." Is there a better working title?
+- [ ] **Q10 — Name variants** — which are canonical: **Tellya Inasec Hakkam** vs "Hakam"; **Sultan Shuk-ri Nill Mo Chatoor** vs Shukranil Mo Shator; **Bimbubop** vs Bimbobop? And is "**Tongueless**" Bishop's real alias (Session 1's text implies it) or a one-off?
+- [ ] **Q11 — Bimbubop** — the fae-conduit / **Fae champion** thread: canon to pursue, or flavor? Di's ancestor's name ("to be determined later") — decided yet?
+- [ ] **Q12 — Karima's 500gp job** — the whole job was retrieving her dead friend Tellya; she vanished from her own tent afterward, and her lieutenant refuses to say where she is — is she alive? Does she know about the green-smoke woman?
+
+### The abduction & the warforged
+
+- [ ] **Q13 — The green-smoke woman** — the grieving woman who argued with the Sultan over her **uncle's body**, who vanished in green smoke around the same time SCOUT was taken: who is she, what does she serve, and was **SCOUT** (or the [[campaigns/team-c/items/pyramid-map|pyramid map]]) the target of the abduction? Who sent the hostile warforged that ambushed Bishop (wizards? GFA(C)? Vontir?), and why were two **brown-cloaked watchers** at the inn?
+
+### Housekeeping
+
+- [ ] **Q14 — Session 14 ("robot")** — the notes are header-only (five/17/26) with four embedded map images. Is there prose to recover, or should the stub stand as-is? And are there sessions beyond 14?
+- [ ] **Q15 — The four map images** — the raw file carries them as embedded base64 (934KB). Want them **extracted into the vault** as image assets (e.g. `assets/team-c/`), or does the text record suffice?
+
+---
+
 _How to answer: just reply with the answer; I'll update the pages and mark this off. You can answer one at a time or all at once._ 🎶

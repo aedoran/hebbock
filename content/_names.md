@@ -8,7 +8,7 @@ updated: 2026-08-20
 
 # 🧾 Canonical Names
 
-> **Single source of truth** for every entity in the Hebbock wiki — world-level and campaign-level — its slug, and known variants.
+> **Single source of truth** for every entity in this wiki — world-level and campaign-level, across all worlds (Hebbock, Zazi) — its slug, and known variants.
 > When I meet a name, I check here first. Not found → I draft it, and if there's any variant spelling or ambiguity, it becomes an open question until you confirm.
 >
 > Variants are aliases, not new pages. One entity, one page.
@@ -49,6 +49,38 @@ updated: 2026-08-20
 | The Ledger of Souls | `ledger-of-souls` | the Ledger | item | [[hebbock/items/ledger-of-souls\|The Ledger of Souls]] |
 | The Great Old One (cosmology) | `great-old-one-cosmology` | | worldbuilding | [[hebbock/worldbuilding/great-old-one-cosmology\|The Great Old One (cosmology)]] |
 
+### World — `zazi/` (Team C's world — working title)
+
+| Canonical Name | Slug | Aliases | Type | Page |
+|---|---|---|---|---|
+| Zazi (world) | `zazi` | City of Cats, the Gulf of Daafia (region) | world | [[zazi/worldbuilding/zazi\|Zazi]] |
+| Zazi (city) | `zazi-city` | the City of Cats | location | [[zazi/locations/zazi\|Zazi, City of Cats]] |
+| Nuzul Inn | `nuzul-inn` | Nuzul, the inn, the tavern | location | [[zazi/locations/nuzul-inn\|Nuzul Inn]] |
+| Anu-Asir | `anu-asir` | the unearthed city, the sunken city | location | [[zazi/locations/anu-asir\|Anu-Asir]] |
+| Pyramid of Tiberesh | `pyramid-of-tiberesh` | the pyramid, the mortuary temple | location | [[zazi/locations/pyramid-of-tiberesh\|Pyramid of Tiberesh]] |
+| The Charnel House | `charnel-house` | the house of the dead, Cornel House | location | [[zazi/locations/charnel-house\|The Charnel House]] |
+| District of the Hyena | `district-of-the-hyena` | the hyena district, the gnoll district | location | [[zazi/locations/district-of-the-hyena\|District of the Hyena]] |
+| Golden Falcon Antiquities (GFA(C)) | `golden-falcon-antiquities` | the GFA, the antiquities company | faction | [[zazi/factions/golden-falcon-antiquities\|GFA(C)]] |
+| Vontir Empire | `vontir-empire` | the Vontir, the western Vontir | faction | [[zazi/factions/vontir-empire\|Vontir Empire]] |
+| Loxodon Kingdom | `loxodon-kingdom` | the Loxodons, the elephant people | faction | [[zazi/factions/loxodon-kingdom\|Loxodon Kingdom]] |
+| The Lost One | `lost-one` | Khortum's lost god | worldbuilding | [[zazi/worldbuilding/lost-one\|The Lost One]] |
+| The Northern War | `northern-war` | the war in the north | worldbuilding | [[zazi/worldbuilding/northern-war\|The Northern War]] |
+| The gods of Zazi | `pantheon` | the Zazi pantheon | worldbuilding | [[zazi/worldbuilding/pantheon\|The gods]] |
+| Nkosi | `nkosi` | cat people, cat-folk, Nicosi (variant spelling?) | creature | [[zazi/creatures/nkosi\|Nkosi]] |
+| Gypsosphinx | `gypsosphinx` | the sphinx statue | creature | [[zazi/creatures/gypsosphinx\|Gypsosphinx]] |
+| Warforged | `warforged` | creatures of war, mechanical beings | creature | [[zazi/creatures/warforged\|Warforged]] |
+| Hazi Sucineri | `hazi-sucineri` | Hazi, young Hazi (past era) | npc | [[zazi/npcs/hazi-sucineri\|Hazi Sucineri]] |
+| Fatima | `fatima` | the professional wench | npc | [[zazi/npcs/fatima\|Fatima]] |
+| Galena Ealamassi | `galena-ealamassi` | Galena | npc | [[zazi/npcs/galena-ealamassi\|Galena Ealamassi]] |
+| Karima | `karima` | Karima (gnoll) | npc | [[zazi/npcs/karima\|Karima]] |
+| Sultan Shukranil Mo Shator | `sultan-shukranil` | the Sultan, Shuk-ri Nill Mo Chatoor (variant) | npc (deceased) | [[zazi/npcs/sultan-shukranil\|The Sultan]] |
+| Tiberesh | `tiberesh` | the mummy, the god-king | npc (defeated) | [[zazi/npcs/tiberesh\|Tiberesh]] |
+| Tellya Hakkam | `tellya-hakkam` | Tellya Inasec Hakkam, Hakam (variant) | npc (deceased) | [[zazi/npcs/tellya-hakkam\|Tellya Hakkam]] |
+| Sandstone | `sandstone` | the old man in armor | npc | [[zazi/npcs/sandstone\|Sandstone]] |
+| Zing | `zing` | Zing the artificer | npc | [[zazi/npcs/zing\|Zing]] |
+| Bimbubop | `bimbubop` | Bimbobop (variant), the mouse | npc | [[zazi/npcs/bimbubop\|Bimbubop]] |
+| Lever of the Dead | `lever-of-the-dead` | the Anubis lever | item | [[zazi/items/lever-of-the-dead\|Lever of the Dead]] |
+
 ### Campaign — `campaigns/quiet-door/`
 
 | Canonical Name | Slug | Aliases | Type | Page |
@@ -66,6 +98,34 @@ updated: 2026-08-20
 | Session II — The Vault of Dumathoin | `session-02` | | session | [[campaigns/quiet-door/sessions/session-02\|Session II]] |
 | Session III — Squeeze Out the Magic | `session-03` | | session | [[campaigns/quiet-door/sessions/session-03\|Session III]] |
 | Session IV — Be Still and Be Seen | `session-04` | | session | [[campaigns/quiet-door/sessions/session-04\|Session IV]] |
+
+### Campaign — `campaigns/team-c/` (world: `zazi/`, working title)
+
+| Canonical Name | Slug | Aliases | Type | Page |
+|---|---|---|---|---|
+| Team C | `team-c` | the avengers | campaign | [[campaigns/team-c/README\|Team C]] |
+| The Party (Team C) | `team-c-party` | the avengers | party | [[campaigns/team-c/party\|The Party]] |
+| Khortum Fil | `khortum-fil` | Khortum, Khorum/Khartoum (typos) | pc | [[campaigns/team-c/characters/khortum-fil\|Khortum Fil]] |
+| Bishop | `bishop` | Tongueless (alias — open) | pc | [[campaigns/team-c/characters/bishop\|Bishop]] |
+| Lachma | `lachma` | the great ass (donkey form) | pc | [[campaigns/team-c/characters/lachma\|Lachma]] |
+| Di Guan | `di-guan` | Di | pc | [[campaigns/team-c/characters/di-guan\|Di Guan]] |
+| S.C.O.U.T. | `scout` | Surveillance and Control Operations Unit Technology | pc | [[campaigns/team-c/characters/scout\|SCOUT]] |
+| The Pyramid Map | `pyramid-map` | the map | item | [[campaigns/team-c/items/pyramid-map\|The Pyramid Map]] |
+| Session 1 — It Starts in a Tavern | `session-01` | | session | [[campaigns/team-c/sessions/session-01\|S1]] |
+| Session 2 — On the Precipice of Adventure | `session-02` | | session | [[campaigns/team-c/sessions/session-02\|S2]] |
+| Session 3 — Tomb Far, Tomb Furious | `session-03` | in-game 8/10/25 | session | [[campaigns/team-c/sessions/session-03\|S3]] |
+| Session 4 — This is good shit. | `session-04` | | session | [[campaigns/team-c/sessions/session-04\|S4]] |
+| Session 5 — But cats don't like water | `session-05` | | session | [[campaigns/team-c/sessions/session-05\|S5]] |
+| Session 6 — Traps and Doors | `session-06` | | session | [[campaigns/team-c/sessions/session-06\|S6]] |
+| Session 7 — What the hell is going on? | `session-07` | | session | [[campaigns/team-c/sessions/session-07\|S7]] |
+| Session 8 — The Sands of Time | `session-08` | | session | [[campaigns/team-c/sessions/session-08\|S8]] |
+| Session 9 — Timing is Everything | `session-09` | | session | [[campaigns/team-c/sessions/session-09\|S9]] |
+| Session 9.5 — Khortum's Pilgrimage | `session-09-5` | | session | [[campaigns/team-c/sessions/session-09-5\|S9.5]] |
+| Session 10 — A Crazy Ass Plan | `session-10` | | session | [[campaigns/team-c/sessions/session-10\|S10]] |
+| Session 11 — Weapon of Ass Distraction | `session-11` | | session | [[campaigns/team-c/sessions/session-11\|S11]] |
+| Session 12 — Sandstorm by Darude | `session-12` | | session | [[campaigns/team-c/sessions/session-12\|S12]] |
+| Session 13 — Evil Woman | `session-13` | | session | [[campaigns/team-c/sessions/session-13\|S13]] |
+| Session 14 — robot | `session-14` | binary title = "robot"; header only | session | [[campaigns/team-c/sessions/session-14\|S14]] |
 
 ## How to read this
 - **Canonical Name** — the one true name to use everywhere.

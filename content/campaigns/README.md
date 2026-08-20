@@ -1,8 +1,8 @@
 # 🎲 Campaigns
 
-> One subfolder **per campaign** played in the world of Hebbock. Each holds that campaign's own records: its party, its characters, its sessions, its arcs — the story as it unfolded.
+> One subfolder **per campaign**. Each holds that campaign's own records: its party, its characters, its sessions, its arcs — the story as it unfolded.
 >
-> World truth lives in [[hebbock/README|hebbock/]]. Campaign folders hold the *journey*; hebbock holds the *world the journey happened in*.
+> World truth lives in the world tier of the campaign's world ([[hebbock/README|hebbock/]] for Hebbock, [[zazi/README|zazi/]] for Team C's world). Campaign folders hold the *journey*; the world tier holds the *world the journey happened in*.
 
 ## Structure
 
@@ -22,17 +22,19 @@ campaigns/
 
 ## The Registry
 
-| Campaign | Slug | Party | Status | Page |
-|---|---|---|---|---|
-| Quiet Door | `quiet-door` | [[quiet-door/party\|The Party]] | active | [[quiet-door/README\|Quiet Door]] |
+| Campaign | World | Slug | Party | Status | Page |
+|---|---|---|---|---|---|
+| Quiet Door | [[hebbock/worldbuilding/hebbock\|Hebbock]] | `quiet-door` | [[quiet-door/party\|The Party]] | active | [[quiet-door/README\|Quiet Door]] |
+| Team C | [[zazi/worldbuilding/zazi\|Zazi]] (working title) | `team-c` | [[team-c/party\|The Party]] | active | [[team-c/README\|Team C]] |
 
 - **Slug** — kebab-case, folder name.
+- **World** — the world tier the campaign is played in (this vault now hosts more than one).
 - **Party** — link to the party page.
 - **Status** — active · ongoing · concluded · abandoned.
 
 ## Conventions
 - A **PC belongs to one campaign** — lives in `campaigns/<slug>/characters/`.
-- A world NPC or faction that appears in a campaign gets **one** page (in `hebbock/`), linked from the campaign; never duplicated per campaign.
+- A world NPC or faction that appears in a campaign gets **one** page (in its world tier, `hebbock/` or `zazi/`), linked from the campaign; never duplicated per campaign.
 - Every session page links to the party, the places visited, and the arcs advanced.
 - Every page gets a row in [[_names|_names.md]] and cross-links both ways.
 - Campaign READMEs include a **timeline** (session → what happened → world changes).

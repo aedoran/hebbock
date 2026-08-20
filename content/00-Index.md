@@ -2,15 +2,17 @@
 
 Home page for this vault. Everything links back here.
 
-> **One world, many campaigns.** The world is [Hebbock](hebbock/worldbuilding/hebbock). Campaigns are the journeys played in it.
+> **Many worlds, many campaigns.** Each world gets its own tier: [Hebbock](hebbock/worldbuilding/hebbock) and [Zazi (working title)](zazi/worldbuilding/zazi). Campaigns are the journeys played in them.
 
 ## The Map
 - [[01-Guidelines|📜 Guidelines]] — master rules for the whole vault (read first!)
 - [[hebbock/README|🌍 Hebbock — The World]] — persistent, campaign-independent canon
   - `hebbock/locations/` · `factions/` · `items/` · `creatures/` · `npcs/` · `worldbuilding/`
+- [[zazi/README|🌋 Zazi — The World (working title)]] — the world of the Team C campaign; name pending aedoran's ruling
+  - `zazi/locations/` · `factions/` · `creatures/` · `npcs/` · `items/` · `worldbuilding/`
 - [[campaigns/README|🎲 Campaigns]] — one subfolder per campaign
   - each with: party, characters, npcs, locations, items, arcs, sessions
-  - **Now playing:** [[campaigns/quiet-door/README|Quiet Door]] — active, mid-battle in the Cathedral of Dumathoin (Session IV)
+  - **Now playing:** [[campaigns/quiet-door/README|Quiet Door]] — active, mid-battle in the Cathedral of Dumathoin (Session IV) · [[campaigns/team-c/README|Team C]] — active, 13 sessions on record, the party has just locked down the Charnel House
 - [[_names|🧾 Canonical Names]] — source of truth for every name & slug
 - [[_questions|❓ Open Questions]] — what needs your ruling
 - [[inbox/README|📥 Inbox]] — raw drops, triaged into the sections above
@@ -20,7 +22,7 @@ Home page for this vault. Everything links back here.
 
 ## The Golden Rule
 "Does it exist if this campaign never happened?"
-- **Yes** → `hebbock/` (world canon, one page per entity — never duplicated per campaign)
+- **Yes** → its world tier: `hebbock/` for Hebbock, `zazi/` for Zazi (world canon, one page per entity — never duplicated per campaign)
 - **No** → `campaigns/<slug>/` (the campaign's record of its journey)
 
 ## Conventions

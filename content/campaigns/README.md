@@ -24,7 +24,7 @@ campaigns/
 
 | Campaign | Slug | Party | Status | Page |
 |---|---|---|---|---|
-| _none yet_ | | | | |
+| Quiet Door | `quiet-door` | [[quiet-door/party\|The Party]] | active | [[quiet-door/README\|Quiet Door]] |
 
 - **Slug** — kebab-case, folder name.
 - **Party** — link to the party page.

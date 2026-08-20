@@ -10,6 +10,7 @@ Home page for this vault. Everything links back here.
   - `hebbock/locations/` · `factions/` · `items/` · `creatures/` · `npcs/` · `worldbuilding/`
 - [[campaigns/README|🎲 Campaigns]] — one subfolder per campaign
   - each with: party, characters, npcs, locations, items, arcs, sessions
+  - **Now playing:** [[campaigns/quiet-door/README|Quiet Door]] — active, mid-battle in the Cathedral of Dumathoin (Session IV)
 - [[_names|🧾 Canonical Names]] — source of truth for every name & slug
 - [[_questions|❓ Open Questions]] — what needs your ruling
 - [[inbox/README|📥 Inbox]] — raw drops, triaged into the sections above

@@ -17,16 +17,24 @@ status: draft
 _The shape of the world: geography, era, tone. To be filled from aedoran's notes._
 
 ## Regions
-- _none yet — will be listed as [[locations/...|regions]] are churned in_
+- [[hebbock/locations/hargate|Hargate]] — the mountain town, the Goat Goat Festival, the delve mouth
+    - [[hebbock/locations/hargate-delve|The Hargate Delve]] — the Underdark below; magnetic upper tunnels
+      - [[hebbock/locations/bioluminescent-gorge|The Bioluminescent Gorge]] — the hollow-mountain wonder
+        - [[hebbock/locations/silt-pool|The Silt Pool]] — the goblin mushroom camp
+        - [[hebbock/locations/cathedral-of-dumathoin|Cathedral of Dumathoin]] — the defiled heart
 
 ## Powers & Factions
-- _none yet — will be listed as [[factions/...|factions]] are churned in_
+- [[hebbock/factions/vault-of-dumathoin|Vault of Dumathoin]] — hoarder-monks of the Underdark
+- [[hebbock/factions/queen-of-worlds|The Queen of Worlds]] — trickster fae power
+- [[hebbock/factions/great-old-one|The Great Old One]] — Cthulhu, the hunger of the deep
+- [[hebbock/factions/matriarchy-of-the-deep-cities|Matriarchy of the Deep Cities]] — the spider-matriarchy (Lolth's domain?)
+- [[hebbock/factions/st-cuthberts-order|Order of St. Cuthbert]] — a real order (aedoran's ruling)
 
 ## Cosmology & Lore
-- _none yet — to be filed in `worldbuilding/`_
+- [[hebbock/worldbuilding/great-old-one-cosmology|The Great Old One (cosmology)]] — the deep's hunger, and what it wants
 
 ## Campaigns Set in Hebbock
-- _none yet — see the registry in [[../campaigns/README|Campaigns]]_
+- [[campaigns/quiet-door/README|Quiet Door]] — **active** — the Hargate Delve, Sessions I–IV
 
 ---
 _Entry page for the world tier. Every `hebbock/` page is a shard of this whole._ 🎶

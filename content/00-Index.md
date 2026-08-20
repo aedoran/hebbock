@@ -12,7 +12,7 @@ Home page for this vault. Everything links back here.
   - `zazi/locations/` · `factions/` · `creatures/` · `npcs/` · `items/` · `worldbuilding/`
 - [[campaigns/README|🎲 Campaigns]] — one subfolder per campaign
   - each with: party, characters, npcs, locations, items, arcs, sessions
-  - **Now playing:** [[campaigns/quiet-door/README|Quiet Door]] — active, mid-battle in the Cathedral of Dumathoin (Session IV) · [[campaigns/team-c/README|Team C]] — active, 13 sessions on record, the party has just locked down the Charnel House
+  - **Now playing:** [[campaigns/quiet-door/README|Quiet Door]] — active, mid-battle in the Cathedral of Dumathoin (Session IV) · [[campaigns/team-c/README|The Avengers]] (Team C) — active, 13 sessions on record, the party has just locked down the Charnel House
 - [[_names|🧾 Canonical Names]] — source of truth for every name & slug
 - [[_questions|❓ Open Questions]] — what needs your ruling
 - [[inbox/README|📥 Inbox]] — raw drops, triaged into the sections above

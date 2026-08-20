@@ -1,19 +1,19 @@
 ---
-title: "Team C"
+title: "The Avengers"
 slug: team-c
 type: campaign
-aliases: [Team C (campaign), the avengers]
+aliases: [Team C, Team C (campaign), the avengers, the Avengers (campaign)]
 tags: [campaign, team-c]
 created: 2026-08-20
 updated: 2026-08-20
 status: draft
 ---
 
-# ⚔️ Team C
+# ⚔️ The Avengers
 
 > A five-person party — "**the avengers**" — contracted by the [[zazi/factions/golden-falcon-antiquities|GFA(C)]] to open the [[zazi/locations/pyramid-of-tiberesh|Pyramid of Tiberesh]]... and then displaced **twenty years into the past**, where the pyramid's own future hangs in the balance.
 
-*Working title: "Team C" (from the session-notes filename). The party calls itself the avengers. Open question: what is the real campaign name?*
+*Canonical title: **The Avengers** (the party's own name — ruled by aedoran 2026-08-20, resolving Q9). "Team C" survives only as the session-notes filename / legacy variant; the slug stays `team-c`.*
 
 ## The party
 - [[campaigns/team-c/characters/khortum-fil|Khortum Fil]] — Loxodon paladin, "takes things slow, slow but strong"

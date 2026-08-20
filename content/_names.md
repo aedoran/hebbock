@@ -103,8 +103,8 @@ updated: 2026-08-20
 
 | Canonical Name | Slug | Aliases | Type | Page |
 |---|---|---|---|---|
-| Team C | `team-c` | the avengers | campaign | [[campaigns/team-c/README\|Team C]] |
-| The Party (Team C) | `team-c-party` | the avengers | party | [[campaigns/team-c/party\|The Party]] |
+| The Avengers | `team-c` | Team C (filename/legacy) | campaign | [[campaigns/team-c/README\|The Avengers]] |
+| The Party (The Avengers) | `team-c-party` | the avengers | party | [[campaigns/team-c/party\|The Party]] |
 | Khortum Fil | `khortum-fil` | Khortum, Khorum/Khartoum (typos) | pc | [[campaigns/team-c/characters/khortum-fil\|Khortum Fil]] |
 | Bishop | `bishop` | Tongueless (alias — open) | pc | [[campaigns/team-c/characters/bishop\|Bishop]] |
 | Lachma | `lachma` | the great ass (donkey form) | pc | [[campaigns/team-c/characters/lachma\|Lachma]] |

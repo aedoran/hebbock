@@ -83,7 +83,7 @@ _Fresh from the second churn (Session Notes — Team C, 15 sessions, 2025-05-31 
 
 ### The party & the NPCs
 
-- [ ] **Q9 — The campaign's true title** — "Team C" is just the filename; the party calls itself "the avengers." Is there a better working title?
+- [x] **Q9 — The campaign's true title** — **"The Avengers"** — the party's own name. (Ruled 2026-08-20: aedoran chose "The Avengers". "Team C" survives only as the session-notes filename / legacy variant; slug stays `team-c`.)
 - [ ] **Q10 — Name variants** — which are canonical: **Tellya Inasec Hakkam** vs "Hakam"; **Sultan Shuk-ri Nill Mo Chatoor** vs Shukranil Mo Shator; **Bimbubop** vs Bimbobop? And is "**Tongueless**" Bishop's real alias (Session 1's text implies it) or a one-off?
 - [ ] **Q11 — Bimbubop** — the fae-conduit / **Fae champion** thread: canon to pursue, or flavor? Di's ancestor's name ("to be determined later") — decided yet?
 - [ ] **Q12 — Karima's 500gp job** — the whole job was retrieving her dead friend Tellya; she vanished from her own tent afterward, and her lieutenant refuses to say where she is — is she alive? Does she know about the green-smoke woman?

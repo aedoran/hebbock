@@ -25,7 +25,7 @@ campaigns/
 | Campaign | Continent | Slug | Party | Status | Page |
 |---|---|---|---|---|---|
 | Quiet Door | [[hebbock/worldbuilding/hebbock\|Hebbock (world heart)]] | `quiet-door` | [[quiet-door/party\|The Party]] | active | [[quiet-door/README\|Quiet Door]] |
-| Team C | [[zazi/worldbuilding/zazi\|Zazi continent]] | `team-c` | [[team-c/party\|The Party]] | active | [[team-c/README\|Team C]] |
+| The Avengers | [[zazi/worldbuilding/zazi\|Zazi continent]] | `team-c` | [[team-c/party\|The Party]] | active | [[team-c/README\|The Avengers]] |
 
 - **Slug** — kebab-case, folder name.
 - **Continent** — the continent tier the campaign is played in (one world, two known continent tiers).

@@ -1,17 +1,17 @@
 ---
-title: "Zazi — World Overview"
+title: "Zazi — Continent Overview"
 slug: zazi-world
 type: worldbuilding
-aliases: [Zazi (city), City of Cats, the Gulf of Daafia]
+aliases: [Zazi (city), City of Cats, the Gulf of Daafia, the Zazi continent]
 tags: [worldbuilding, zazi]
 created: 2026-08-20
 updated: 2026-08-20
 status: draft
 ---
 
-# 🌍 Zazi — World Overview
+# 🌍 Zazi — Continent Overview
 
-> The setting of the [[campaigns/team-c/README|Team C]] campaign: a desert world of a cat-city, a sunken ancient city, a burial pyramid, and a war of wizards and warforged on the northern continent.
+> A continent of the world of [[hebbock/worldbuilding/hebbock|Hebbock]] (same world, different continent — ruled 2026-08-20), setting of the [[campaigns/team-c/README|Team C]] campaign: a desert continent of a cat-city, a sunken ancient city, a burial pyramid, and a war of wizards and warforged on the northern continent. How the two continents of the world relate to each other — distance, travel, shared history — is not yet known.
 
 *Everything here is sourced from the Team C session notes (2025-05-31 → 2026-05-17, as written). Where the notes are thin, it says so.*
 
@@ -33,7 +33,10 @@ status: draft
 - **The past (Sessions 8–14, ~20 years earlier):** the party is displaced in time by the **Chamber of Stars** (run by [[zazi/npcs/sandstone|Sandstone]] and [[zazi/npcs/zing|Zing]]). In this era: the Nkosi are common, the [[zazi/factions/loxodon-kingdom|Loxodons]] are rising, the [[zazi/worldbuilding/lost-one|Lost One]] is a living god with a real temple, the warforged of the Northern War are newly forged and rebelling, and the party's old allies don't exist yet — the party meets a *younger* [[zazi/npcs/hazi-sucineri|Hazi]].
 
 ## The Chamber of Stars
-A 50-foot cylinder room with star-field walls and a portal into a swirling foreign sky. It showed the party flickering images of **metal flying ships** and pyramids, then sent them back to [[zazi/locations/nuzul-inn|Nuzul Inn]] in the past with one instruction: **find Hazi, give him the map. We'll see you in the future.** Open questions: what is the chamber, who built it, what are the metal ships? (see [[_questions|Open Questions]])
+A 50-foot cylinder room with star-field walls and a portal into a swirling foreign sky. It showed the party flickering images of **metal flying ships** and pyramids, then sent them back to [[zazi/locations/nuzul-inn|Nuzul Inn]] in the past with one instruction: **find Hazi, give him the map. We'll see you in the future.**
+
+### What Remains Unknown
+aedoran has ruled (2026-08-20) that the Chamber of Stars is **not yet understood** — its nature, its builders, the metal flying ships, the second arm's "ok symbol," and the identities/organization of [[zazi/npcs/sandstone|Sandstone]] and [[zazi/npcs/zing|Zing]] are all deliberately open. They are mysteries the campaign is meant to answer, not holes to pre-fill. (see [[_questions|Open Questions]])
 
 ## Religion
 See [[zazi/worldbuilding/pantheon|the gods of Zazi]] — the notes name **Bastet** (cat goddess), **Anubis** (jackal-headed judge of the dead, "an analog of Hermes" per Lachma), **Enoreth** (god of time, a constellation in the star-portal sky), an unnamed **fish-headed god** (reliefs, alabaster, the anglerfish doors), and the [[zazi/worldbuilding/lost-one|Lost One]] of the Loxodons. Djinn are rumored.

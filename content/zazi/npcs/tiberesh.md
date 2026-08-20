@@ -25,7 +25,8 @@ status: draft
 - The party's entry ignites the doorway into flame; the room begins filling with sand; the lid slides off; a human-like figure wrapped in wrappings emerges from **roiling green smoke**:
   > "I am reborn! I will turn this world upside-down on your behalf!"
 - Combat: the mummy draws **healing light from the sarcophagus**; **skeletal warriors and a skeletal archer** rise from the sand; Bishop's psychic sliver fails; it toasts Lachma's bug-infestation ("mere bugs").
-- Khortum's challenge: **"Face the avatar of the Lost One!"** — i.e., the mummy is (or carries) an **avatar of the [[zazi/worldbuilding/lost-one|Lost One]]**, the Loxodon god. (Is Tiberesh *the* Lost One, or a corrupt vessel of it? **Open question** — see [[_questions|Open Questions]].)
+- Khortum's challenge: **"Face the avatar of the Lost One!"** — i.e., the mummy is (or carries) an **avatar of the [[zazi/worldbuilding/lost-one|Lost One]]**, the Loxodon god.
+- **What remains unknown (ruling 2026-08-20):** whether the mummy is Tiberesh himself, an avatar of the Lost One, or something else entirely — and whose hand the blackened, glowing mummified hand in the sarcophagus was — are **deliberately unresolved** mysteries. The campaign is meant to answer them, not pre-answer them. (see [[_questions|Open Questions]] Q6.)
 - The kill: Bishop spots, inside the open sarcophagus, **a blackened, glowing mummified hand**. He **stabs it** — the alabaster walls rupture "with giant lightning cracks," platter-sized holes appear, the mummy roars and collapses, the skeletons fall, and **sand pours in like water**.
 - Escape: the party forces the locked **golden doors** on the far side (Bishop "slides the latching mechanism... cool as a cucumber"), beats the sand, and reunites over the gypsosphinx (see [[zazi/locations/pyramid-of-tiberesh|Pyramid of Tiberesh]]).
 

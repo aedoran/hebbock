@@ -65,19 +65,19 @@ _Missing info. "Who leads the temple? Where is the dungeon? Which campaign does 
 
 ## 🌋 Team C
 
-_Fresh from the second churn (Session Notes — Team C, 15 sessions, 2025-05-31 → 2026-05-17). Filed provisionally under a new world tier, `zazi/` — see Q1._
+_Fresh from the second churn (Session Notes — Team C, 15 sessions, 2025-05-31 → 2026-05-17). Q1–Q6 ruled 2026-08-20; the tier `zazi/` is now confirmed as a **continent of the same world as Hebbock**._
 
 ### The world itself
 
-- [ ] **Q1 — Is Team C's world a separate world from Hebbock?** (Gulf of Daafia, Vontir Empire, Egyptian-flavored gods, Nkosi cat-people, Loxodons — feels like its own setting.) What's its **true name**, and is `zazi/` an acceptable slug (I only have the region/city "Zazi" and the wider "Gulf of Daafia")?
-- [ ] **Q2 — The Egyptian-flavored gods** — literally Egyptian (Ra, Bastet, Anubis…) or homegrown analogs? What's the name of the **fish-headed god** carved on the anglerfish doors?
-- [ ] **Q3 — The Chamber of Stars** — what is it, who built it, what are the **metal flying ships** in the flickering images, and what was the second arm's "ok symbol"? Are [[zazi/npcs/sandstone|Sandstone]] and [[zazi/npcs/zing|Zing]] its guardians, its crew, or its remnants? What organization do they belong to?
-- [ ] **Q4 — Time travel** — is the jump real travel ~20 years back, or a parallel world? (Lachma's attunement test in Session 9 was never resolved in the notes.)
-- [ ] **Q5 — What changed between past and present?** — Nkosi (common → gone/rare), Loxodons (rising kingdom → gone/lonely island), warforged (absent → the [[zazi/worldbuilding/northern-war|Northern War]]), Vontir (loose alignment → ?). Was it a single event, or many?
+- [x] **Q1 — Is Team C's world a separate world from Hebbock?** — **Same world, different continent.** (Ruled 2026-08-20: "its in the same world just a different continent." The `zazi/` tier is now a *continent tier* of the world of Hebbock; all registries reworded accordingly. How the two continents relate — distance, travel, shared history — remains unknown.)
+- [x] **Q2 — The Egyptian-flavored gods** — **not literally Egyptian**; the pantheon is this world's own, Egyptian-*flavored*. (Ruled 2026-08-20. The notes still use the names Bastet, Anubis, Enoreth as the characters know them. The fish-headed god's name remains unknown.)
+- [ ] **Q3 — The Chamber of Stars** — what is it, who built it, what are the **metal flying ships** in the flickering images, and what was the second arm's "ok symbol"? Are [[zazi/npcs/sandstone|Sandstone]] and [[zazi/npcs/zing|Zing]] its guardians, its crew, or its remnants? What organization do they belong to? — *(aedoran 2026-08-20: "not sure" — stays open; page carries a What Remains Unknown note.)*
+- [ ] **Q4 — Time travel** — is the jump real travel ~20 years back, or a parallel world? — *(aedoran 2026-08-20: "not known yet" — deliberately unresolved; Lachma's attunement test stays open.)*
+- [ ] **Q5 — What changed between past and present?** — Nkosi (common → gone/rare), Loxodons (rising kingdom → gone/lonely island), warforged (absent → the [[zazi/worldbuilding/northern-war|Northern War]]), Vontir (loose alignment → ?). Was it a single event, or many? — *(aedoran 2026-08-20: "it looks like a lot, and is unclear" — the scale of change is itself a mystery of the campaign; not pre-defined.)*
 
 ### The pyramid & its dead
 
-- [ ] **Q6 — The mummy** — is it [[zazi/npcs/tiberesh|Tiberesh]] himself, or an **avatar of the [[zazi/worldbuilding/lost-one|Lost One]]** (Khortum's line: "Face the avatar of the Lost One!")? And the **blackened mummified hand** in the sarcophagus — whose is it?
+- [ ] **Q6 — The mummy** — is it [[zazi/npcs/tiberesh|Tiberesh]] himself, or an **avatar of the [[zazi/worldbuilding/lost-one|Lost One]]** (Khortum's line: "Face the avatar of the Lost One!")? And the **blackened mummified hand** in the sarcophagus — whose is it? — *(aedoran 2026-08-20: "unknown" — stays a deliberate mystery; noted on the Tiberesh page.)*
 - [ ] **Q7 — The gypsosphinx** — which icon does Bishop "recognize"? What is the cylinder its paws guard, and what do the runestones (lion, scarab, cat, snake) open?
 - [ ] **Q8 — The second pyramid** — the "great sand pyramid" near the charnel house is explicitly *not* the pyramid of Tiberesh — what is it?
 

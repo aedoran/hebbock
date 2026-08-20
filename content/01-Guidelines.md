@@ -4,7 +4,7 @@
 >
 > Design goal: a flat, predictable, **markdown-first** structure that both a human (in Obsidian) and an agent (me) can navigate by `grep`, `find`, and `read` without ambiguity.
 >
-> **Core model: one world, many campaigns.** The world is **Hebbock**. Multiple parties run multiple campaigns in it. World truth lives in `hebbock/`; each campaign's journey lives in `campaigns/<slug>/`.
+> **Core model: one world, many continents, many campaigns.** The world is **Hebbock** — the Hargate region is its heart, and the **Zazi continent** (Gulf of Daafia) is another known continent of the same world (ruled 2026-08-20). Multiple parties run multiple campaigns across it. World truth lives in the continent tier (`hebbock/` for the world heart, `zazi/` for the Zazi continent); each campaign's journey lives in `campaigns/<slug>/`.
 
 ## Table of Contents
 1. [Purpose](#1-purpose)

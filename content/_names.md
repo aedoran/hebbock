@@ -8,7 +8,7 @@ updated: 2026-08-20
 
 # 🧾 Canonical Names
 
-> **Single source of truth** for every entity in this wiki — world-level and campaign-level, across all worlds (Hebbock, Zazi) — its slug, and known variants.
+> **Single source of truth** for every entity in this wiki — world-level and campaign-level. One world (Hebbock), two known continent tiers (`hebbock/` = world heart, `zazi/` = the Zazi continent, ruled 2026-08-20) — its slug, and known variants.
 > When I meet a name, I check here first. Not found → I draft it, and if there's any variant spelling or ambiguity, it becomes an open question until you confirm.
 >
 > Variants are aliases, not new pages. One entity, one page.
@@ -49,11 +49,11 @@ updated: 2026-08-20
 | The Ledger of Souls | `ledger-of-souls` | the Ledger | item | [[hebbock/items/ledger-of-souls\|The Ledger of Souls]] |
 | The Great Old One (cosmology) | `great-old-one-cosmology` | | worldbuilding | [[hebbock/worldbuilding/great-old-one-cosmology\|The Great Old One (cosmology)]] |
 
-### World — `zazi/` (Team C's world — working title)
+### Continent — `zazi/` (the Zazi continent of Hebbock — same world, ruled 2026-08-20)
 
 | Canonical Name | Slug | Aliases | Type | Page |
 |---|---|---|---|---|
-| Zazi (world) | `zazi` | City of Cats, the Gulf of Daafia (region) | world | [[zazi/worldbuilding/zazi\|Zazi]] |
+| Zazi (continent) | `zazi` | City of Cats, the Gulf of Daafia (region) | continent | [[zazi/worldbuilding/zazi\|Zazi]] |
 | Zazi (city) | `zazi-city` | the City of Cats | location | [[zazi/locations/zazi\|Zazi, City of Cats]] |
 | Nuzul Inn | `nuzul-inn` | Nuzul, the inn, the tavern | location | [[zazi/locations/nuzul-inn\|Nuzul Inn]] |
 | Anu-Asir | `anu-asir` | the unearthed city, the sunken city | location | [[zazi/locations/anu-asir\|Anu-Asir]] |
@@ -99,7 +99,7 @@ updated: 2026-08-20
 | Session III — Squeeze Out the Magic | `session-03` | | session | [[campaigns/quiet-door/sessions/session-03\|Session III]] |
 | Session IV — Be Still and Be Seen | `session-04` | | session | [[campaigns/quiet-door/sessions/session-04\|Session IV]] |
 
-### Campaign — `campaigns/team-c/` (world: `zazi/`, working title)
+### Campaign — `campaigns/team-c/` (world: Hebbock — the Zazi continent)
 
 | Canonical Name | Slug | Aliases | Type | Page |
 |---|---|---|---|---|

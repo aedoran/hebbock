@@ -1,7 +1,7 @@
 ---
-title: "Zazi (world)"
+title: "Zazi (continent)"
 slug: zazi
-type: world
+type: continent
 aliases: []
 tags: [world, zazi]
 created: 2026-08-20
@@ -9,11 +9,11 @@ updated: 2026-08-20
 status: draft
 ---
 
-# 🌍 Zazi — The World (working title)
+# 🌋 Zazi — The Continent
 
-> The world of the **Team C** campaign. The name "Zazi" is a placeholder: it is the *city* the party plays in ("City of Cats"), and the wider world is still unnamed. The world contains the [[zazi/factions/vontir-empire|Vontir Empire]], the war-torn [[zazi/worldbuilding/northern-war|northern continent]], and the rising [[zazi/factions/loxodon-kingdom|Loxodon island kingdom]].
+> A continent of the world of [[hebbock/worldbuilding/hebbock|Hebbock]] — same world as Hargate, different continent (ruled by aedoran 2026-08-20). The **Team C** campaign is played here: the city of [[zazi/locations/zazi|Zazi, "City of Cats"]] on the [[zazi/worldbuilding/zazi#geography-as-known|Gulf of Daafia]], the [[zazi/factions/vontir-empire|Vontir Empire]], the war-torn northern continent, and the rising [[zazi/factions/loxodon-kingdom|Loxodon island kingdom]].
 
-⚠️ **Unresolved:** the world's true name, and whether it is one world with a distinct region, or a separate world from [[hebbock/worldbuilding/hebbock|Hebbock]] — see [[_questions|Open Questions]].
+The tier is named after its star city, as `hebbock/` is named after its heart region. What the *world* calls the distance between the two continents — and how anyone crosses it — is not yet known.
 
 ## The Map (this tier)
 - `worldbuilding/` — [[zazi/worldbuilding/zazi|world overview]] · [[zazi/worldbuilding/lost-one|the Lost One]] · [[zazi/worldbuilding/northern-war|the Northern War]] · [[zazi/worldbuilding/pantheon|the gods (Bastet, Anubis, Enoreth, the fish god…)]]

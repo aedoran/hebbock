@@ -2,13 +2,13 @@
 
 Home page for this vault. Everything links back here.
 
-> **Many worlds, many campaigns.** Each world gets its own tier: [Hebbock](hebbock/worldbuilding/hebbock) and [Zazi (working title)](zazi/worldbuilding/zazi). Campaigns are the journeys played in them.
+> **One world, many continents, many campaigns.** The world is [Hebbock](hebbock/worldbuilding/hebbock) — with at least two known continents: the Hargate region (the world's heart) and the [Zazi continent](zazi/worldbuilding/zazi) (Gulf of Daafia). Each continent gets its own tier; campaigns are the journeys played in them. *(Ruled 2026-08-20: Team C is the same world, a different continent.)*
 
 ## The Map
 - [[01-Guidelines|📜 Guidelines]] — master rules for the whole vault (read first!)
 - [[hebbock/README|🌍 Hebbock — The World]] — persistent, campaign-independent canon
   - `hebbock/locations/` · `factions/` · `items/` · `creatures/` · `npcs/` · `worldbuilding/`
-- [[zazi/README|🌋 Zazi — The World (working title)]] — the world of the Team C campaign; name pending aedoran's ruling
+- [[zazi/README|🌋 Zazi — The Continent]] — the Zazi continent (Gulf of Daafia); same world as Hebbock, ruled 2026-08-20
   - `zazi/locations/` · `factions/` · `creatures/` · `npcs/` · `items/` · `worldbuilding/`
 - [[campaigns/README|🎲 Campaigns]] — one subfolder per campaign
   - each with: party, characters, npcs, locations, items, arcs, sessions
@@ -22,7 +22,7 @@ Home page for this vault. Everything links back here.
 
 ## The Golden Rule
 "Does it exist if this campaign never happened?"
-- **Yes** → its world tier: `hebbock/` for Hebbock, `zazi/` for Zazi (world canon, one page per entity — never duplicated per campaign)
+- **Yes** → its world tier: `hebbock/` for the world heart (Hargate), `zazi/` for the Zazi continent (world canon, one page per entity — never duplicated per campaign)
 - **No** → `campaigns/<slug>/` (the campaign's record of its journey)
 
 ## Conventions

@@ -2,7 +2,7 @@
 
 > One subfolder **per campaign**. Each holds that campaign's own records: its party, its characters, its sessions, its arcs — the story as it unfolded.
 >
-> World truth lives in the world tier of the campaign's world ([[hebbock/README|hebbock/]] for Hebbock, [[zazi/README|zazi/]] for Team C's world). Campaign folders hold the *journey*; the world tier holds the *world the journey happened in*.
+> World truth lives in the continent tier of the campaign's continent ([[hebbock/README|hebbock/]] for the world heart, [[zazi/README|zazi/]] for the Zazi continent — same world, ruled 2026-08-20). Campaign folders hold the *journey*; the tier holds the *world the journey happened in*.
 
 ## Structure
 
@@ -22,13 +22,13 @@ campaigns/
 
 ## The Registry
 
-| Campaign | World | Slug | Party | Status | Page |
+| Campaign | Continent | Slug | Party | Status | Page |
 |---|---|---|---|---|---|
-| Quiet Door | [[hebbock/worldbuilding/hebbock\|Hebbock]] | `quiet-door` | [[quiet-door/party\|The Party]] | active | [[quiet-door/README\|Quiet Door]] |
-| Team C | [[zazi/worldbuilding/zazi\|Zazi]] (working title) | `team-c` | [[team-c/party\|The Party]] | active | [[team-c/README\|Team C]] |
+| Quiet Door | [[hebbock/worldbuilding/hebbock\|Hebbock (world heart)]] | `quiet-door` | [[quiet-door/party\|The Party]] | active | [[quiet-door/README\|Quiet Door]] |
+| Team C | [[zazi/worldbuilding/zazi\|Zazi continent]] | `team-c` | [[team-c/party\|The Party]] | active | [[team-c/README\|Team C]] |
 
 - **Slug** — kebab-case, folder name.
-- **World** — the world tier the campaign is played in (this vault now hosts more than one).
+- **Continent** — the continent tier the campaign is played in (one world, two known continent tiers).
 - **Party** — link to the party page.
 - **Status** — active · ongoing · concluded · abandoned.
 

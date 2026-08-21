@@ -79,7 +79,7 @@ _Fresh from the second churn (Session Notes — Team C, 15 sessions, 2025-05-31 
 
 - [ ] **Q6 — The mummy** — is it [[zazi/npcs/tiberesh|Tiberesh]] himself, or an **avatar of the [[zazi/worldbuilding/lost-one|Lost One]]** (Khortum's line: "Face the avatar of the Lost One!")? And the **blackened mummified hand** in the sarcophagus — whose is it? — *(aedoran 2026-08-20: "unknown" — stays a deliberate mystery; noted on the Tiberesh page.)*
 - [x] **Q7 — The gypsosphinx** — which icon does Bishop "recognize"? What is the cylinder its paws guard, and what do the runestones (lion, scarab, cat, snake) open? — *(aedoran 2026-08-21: **mystery by design** — stays open; noted on the gypsosphinx page.)*
-- [ ] **Q8 — The second pyramid** — the "great sand pyramid" near the charnel house is explicitly *not* the pyramid of Tiberesh — what is it?
+- [x] **Q8 — The second pyramid** — the "great sand pyramid" near the charnel house is explicitly *not* the pyramid of Tiberesh — what is it? — *(aedoran 2026-08-21: **mystery by design** — stays open; noted on the pyramid and charnel-house pages.)*
 
 ### The party & the NPCs
 

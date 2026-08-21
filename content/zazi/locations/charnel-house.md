@@ -17,7 +17,7 @@ status: draft
 - **15 feet tall**, **bell-shaped** sandstone — "kind of like a handbell."
 - **No windows**; a single entrance (probably an iron door); **no backdoor**; **no guards outside**; smoke from an opening at the top.
 - Hours: **dawn to dusk**.
-- Nearby: the **"great sand pyramid"** — *not* the [[zazi/locations/pyramid-of-tiberesh|Pyramid of Tiberesh]] — and **Jackal's Run Bridge** at the pyramid's southeastern tip (the dawn rendezvous point with [[zazi/npcs/karima|Karima]]).
+- Nearby: the **"great sand pyramid"** — *not* the [[zazi/locations/pyramid-of-tiberesh|Pyramid of Tiberesh]] — whose it is and what lies inside are **mysteries by design** (ruled 2026-08-21) — and **Jackal's Run Bridge** at the pyramid's southeastern tip (the dawn rendezvous point with [[zazi/npcs/karima|Karima]]).
 
 ## Inside
 - **Ground floor:** a small platform; a stairway winding down to the east; a **blazing charcoal pit**; a trio of wax-encrusted chandeliers.

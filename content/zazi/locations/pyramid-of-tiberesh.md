@@ -49,7 +49,7 @@ status: draft
 - The pyramid map (drawn by the party — now with SCOUT, given to young Hazi in the past)
 
 ## Open questions
-- What is the "great sand pyramid" *near the charnel house* — "not the pyramid of Tiberesh"? A second pyramid? (see [[zazi/locations/charnel-house|Charnel House]])
+- What is the "great sand pyramid" *near the charnel house* — "not the pyramid of Tiberesh"? A second pyramid? **Mystery by design** (ruled 2026-08-21) — the campaign answers it, not pre-fills it. (see [[zazi/locations/charnel-house|Charnel House]])
 - The fish-headed god's name and relation to Tiberesh.
 - What the four sarcophagus names (Xerx, Phi, Tosanath, Baelxi) are and whose they are.
 - The golden doors' locking mechanism.

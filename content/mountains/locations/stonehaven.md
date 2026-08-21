@@ -17,7 +17,7 @@ status: draft
 - **[[mountains/npcs/thraine|Thraine]]** — dwarf innkeeper of the Mountain's Respite; the door is stained, weathered oak, "solidly constructed for dwarfs."
 - **[[mountains/npcs/gilda|Gilda]]** — the town drunk ("a lady dwarf" — as written), the only one who knows where the old prison/tomb is; her memory is "shituational"; she burps in Orenstein's face and falls asleep.
 - **[[mountains/npcs/eaemon-stonehearth|Eamon Stonehearth]]** — elder of the town; brewed a tea for the party; has heard of the tomb but never seen it.
-- **The town healer** — keeps a tarot: for Thora, "a soothing balm… a wise ruler who roams the land"; for Xuanzang, "the way is the destination."
+- **The town healer** — keeps a tarot: for Thora, "a soothing balm… a wise ruler who roams the land"; for Xohn, "the way is the destination."
 
 ## The mountain prison
 A **for-profit mountain prison** somewhere up the peaks, run when warden **Grimbold** was still alive (he's dead now). Thora's vision: *rusty gates, packed in old snow… strange noises and lights.*

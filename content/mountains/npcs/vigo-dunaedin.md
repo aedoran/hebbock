@@ -21,7 +21,7 @@ status: draft
 - The **traitor is Vigo's own brother** — and he is from **Astogrolluu, the new name of Vil'Tanee**.
 - The [[campaigns/team-b/items/high-elven-leaf-treasure|High Elven leaf treasure]] ties to the High Elven King [[mountains/npcs/kalvulaen-viltannen|Kalvulaen Vil'Tannen]] of Vil'Tanee.
 - The drow journal in the watchtower: a drow of Menzoberranzan seeks "the root of the treachery, the hand of the traitor"; "soon time for a ritual."
-- **The mark of the traitor is on [[campaigns/team-b/characters/xuanzang|Xuanzang]]'s circlet** — so there goes diplomacy.
+- **The mark of the traitor is on [[campaigns/team-b/characters/xohn|Xohn]]'s circlet** — so there goes diplomacy.
 
 ## In play
 - Vigo is the first act's hook: who is the brother, and what is the ritual? The party knows where the traitor is *from*, not where he is. See [[_questions|Open Questions]].

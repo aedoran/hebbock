@@ -16,11 +16,11 @@ The frog-reptile battle ends, the cave gets a lot stinkier, and the party finds 
 
 ## What Happened
 
-- HAHA! Xuanzang / Xohn kicks and kills a frog-reptile.
-- Xuanzang / Xohn is severely hurt after being attacked (as written "attached") by a frog-reptile and clawed.
-- Buckley "cure wounds" (as written) on Xuanzang / Xohn — he is cured. Whew!
+- HAHA! Xohn kicks and kills a frog-reptile.
+- Xohn is severely hurt after being attacked (as written "attached") by a frog-reptile and clawed.
+- Buckley "cure wounds" (as written) on Xohn — he is cured. Whew!
 - Sir strikes the trog (as written) in the chest with her axe, and Orenstein Alabaster "shoots toads in a barrel" with Eldritch Blast.
-- The laughing trog (as written) is hit by Xuanzang / Xohn, stops laughing, stands up, and is put down by Sir and Xuanzang / Xohn.
+- The laughing trog (as written) is hit by Xohn, stops laughing, stands up, and is put down by Sir and Xohn.
 - Buckley sneaks ahead to scout the cavernous drop. It extends down beyond his darkvision; wind rises up from the drop, an ominous sound indicating large airflows.
 - Sir discovers a symbol/rune on a short sword after investigation. Orenstein Alabaster decodes it as "venomous fang."
 - The party makes its way around the deep pit and finds a stinking bog with trickling water and humanoid bones in the distance. Orenstein Alabaster casts a spell to fetch a skull; his casting draws energy from the far realm, gives him a ghastly glow, and channels death itself. The skull has been eaten — brains slurped out — and it was some type of elf!

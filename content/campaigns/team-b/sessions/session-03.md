@@ -19,7 +19,7 @@ Donnie the bard contributes a (heteronormative) song, the unseen foe gets kicked
 - Donnie's (heteronormative) song about Sir: "Oh, hear ye, hear ye, a tale to unfurl / Sir's not a sir, but a half-orc girl! With axe and shield, she's fierce and bold, / A barbarian's heart, in feminine mold. / Strength and fury in her veins do flow, / Her gender matters not in battle's glow. / So let us cheer for Sir, the brave, / A warrior queen, no damsel to save! / Emojis can't capture her might and grace, / But picture an orc with a lady's face. / In Stonehaven's tale, she'll play her part, / A half-orc heroine to warm our heart!"
 - Sir perceives a shadowy foe; [[campaigns/team-b/characters/thora|Thora]] lands a mighty blow against the unseen foe.
 - [[campaigns/team-b/characters/orenstein-alabaster|Orenstein]] is hit by a mass of sticky web.
-- [[campaigns/team-b/characters/xuanzang|Xohn]] successfully kicks the foe in the junk!
+- [[campaigns/team-b/characters/xohn|Xohn]] successfully kicks the foe in the junk!
 - Sir is impressed by her new companions, who "can fight pretty well."
 - Thora is hit in the chest and falls, but is not unconscious — "This could go either way." Sir pummels the foe in "a shocking display of barbarity and brutality," then crosses to free Orenstein from the web. Orenstein panics a bit, squeaking a little; Thora's second death save succeeds (natural 20, gains 1 HP).
 - Sir gets stuck in web too, then breaks out; Sir wonders at Orenstein's weakness and brings the axe high. Orenstein looks at the blade's gleam in terror — and finds Sir "vaguely attractive" as she stands over him.

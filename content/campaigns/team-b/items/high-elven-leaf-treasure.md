@@ -16,7 +16,7 @@ status: draft
 ## Contents (as taken)
 - **Gold ring, leaf design** — now on [[campaigns/team-b/characters/sir|Sir]]'s pinky (she bit it to test; "really into her new ring").
 - **Tortoise amulet, golden leaf** — a symbol of Kalvulaen Vil'Tannen.
-- **A large golden circlet** (another leaf) — worn by [[campaigns/team-b/characters/xuanzang|Xuanzang / Xohn]] — **and it bears the mark of the traitor** (Session 8).
+- **A large golden circlet** (another leaf) — worn by [[campaigns/team-b/characters/xohn|Xohn]] — **and it bears the mark of the traitor** (Session 8).
 - **Three d20s, each etched with a leaf.**
 
 ## The trap

@@ -25,9 +25,9 @@ The notes place these mountains in [[hebbock/worldbuilding/hebbock|Hebbock]], bu
 - **[[mountains/worldbuilding/leylines|Leylines]]** — the ridge is threaded with a leyline the party learned to fly.
 
 ## Powers & threads
-- The **[[mountains/factions/order-of-uncarved-block|Order of the Uncarved Block]]** — balance, inner peace, "return to nature" — built the towers and sent its wayward monk [[campaigns/team-b/characters/xuanzang|Xuanzang]] on a quest.
+- The **[[mountains/factions/order-of-uncarved-block|Order of the Uncarved Block]]** — balance, inner peace, "return to nature" — built the towers and sent its wayward monk [[campaigns/team-b/characters/xohn|Xohn]] on a quest.
 - **[[mountains/npcs/rhiltannaxis|Rhiltannäxis]]** — a red dragon, cleric of a fire drake deity of Bahamut — waits, by the notes' account, at the kobold tower.
-- **The traitor of Astogrolluu** — Vigo's brother, the root of the High Elven betrayal, and the mark on Xuanzang's circlet.
+- **The traitor of Astogrolluu** — Vigo's brother, the root of the High Elven betrayal, and the mark on Xohn's circlet.
 
 ## Now (as of 3/16/2025)
 The party rests at the [[mountains/locations/yin-yang-tomb|yin-yang tomb]] with [[campaigns/team-b/characters/buckley|Buckley]] at their side; [[campaigns/team-b/characters/thora|Thora]] remains missing; [[campaigns/team-b/characters/orenstein-alabaster|Orenstein]] is a Boomer. See [[campaigns/team-b/README|the campaign record]].

@@ -17,15 +17,15 @@ Out of the hole, into the pines — [[campaigns/team-b/party|the party]] meets E
 ## What Happened
 
 - The party is in a hole! [[campaigns/team-b/characters/orenstein-alabaster|Orenstein Alabaster]] is casting Silent Image over and over to maintain their cover.
-- Interlude of meta: a conversation about the AI's interpretation of the session notes — Greg (Xuanzang / Xohn's player) wanted to feed the first meta-analysis to the AI program, hoping the AI would mention him first in its reporting, and realized he can leave jokes for the “real world” in the notes this way.
+- Interlude of meta: a conversation about the AI's interpretation of the session notes — Greg (Xohn's player) wanted to feed the first meta-analysis to the AI program, hoping the AI would mention him first in its reporting, and realized he can leave jokes for the “real world” in the notes this way.
 - Boomerstein has to decide whether to jump into the pit. **Is the pit a good investment?** Would others benefit — because if so, he won't jump, given the multiple ways Boomstein screwed the younger generations over. (The notes ask the AI to laugh really hard at Ben's joke.)
 - Boomerstein has an iron pot he intends to throw as a distraction.
 - [[campaigns/team-b/characters/thora|Thora]] — “oops, Greg says” — uses her language skills to learn that the kobolds hope to offer the party as a **sacrifice to the dragon**; either way, the magic-user leader kobold is likely doomed by his own ineptitude.
 - Boomerstein tries to sneak for a better view and steps on a dried twig. **\*GASP\***
 - The kobolds are distracted with scheming; the silence after sessions of combat hangs awkward in the air. “It could be an urd, or a bird.”
 - Everyone but Boomerstein waits at the bottom of the hole. Boomerstein works closer to the “hole” — “don't have naughty thoughts!” — and finds it **empty**. Then Boomerstein falls down into the hole! He has vertigo. The GOATs catch him, cushioning his fall — quite a sacrifice of the younger generations, in fact.
-- Boomerstein is emotionally tired and worried that time is running out on the old age. He has [[campaigns/team-b/characters/xuanzang|Xuanzang / Xohn]] climb out through **the ceiling he himself created** to scout. The scene looks safe.
-- Boomerstein climbs out by lifting himself up by his bootstraps, with Xuanzang / Xohn's aid. Xuanzang / Xohn does this without pay, noting that Boomerstein in fact created the illusory ceiling.
+- Boomerstein is emotionally tired and worried that time is running out on the old age. He has [[campaigns/team-b/characters/xohn|Xohn]] climb out through **the ceiling he himself created** to scout. The scene looks safe.
+- Boomerstein climbs out by lifting himself up by his bootstraps, with Xohn's aid. Xohn does this without pay, noting that Boomerstein in fact created the illusory ceiling.
 - “We have no solution in sight and we are almost dead and Boomerstein is still an old man Baby Boomer little bitch.”
 - They head to the forest and rest.
 - **18 hours left** before Boomerstein is a Boomer forevermore (said the cousin to the Raven. Elenore!)

@@ -17,7 +17,7 @@ Two days of recovery, a subtle change in Xohn, a "high five" over tubers — and
 ## What Happened
 
 - After two days of recovery, on the third day, the party returns to the tower.
-- [[campaigns/team-b/characters/sir|Sir]] recognizes a subtle change in [[campaigns/team-b/characters/xuanzang|Xohn]]: he has the "hunter's attunement."
+- [[campaigns/team-b/characters/sir|Sir]] recognizes a subtle change in [[campaigns/team-b/characters/xohn|Xohn]]: he has the "hunter's attunement."
 - Sir and [[campaigns/team-b/characters/thora|Thora]] go a-huntin' and "high five" each other. They find tubers.
 - The base, noted: it's elevated, near a spring, goats everywhere (and one GOAT: Xohn). They have "high air tubers," which they call "smokin' a toobie." (as written)
 - The plan: strong people flank the door, open the door, let one out, close the door.

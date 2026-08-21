@@ -1,8 +1,8 @@
 ---
-title: "Xuanzang"
-slug: xuanzang
+title: "Xohn"
+slug: xohn
 type: character
-aliases: [Xohn, the GOAT]
+aliases: [Xuanzang, the GOAT]
 race: halfling
 class: monk (Path of the Open Hand, as of Session 16)
 level: 3
@@ -15,7 +15,7 @@ updated: 2026-08-21
 status: draft
 ---
 
-# 🐐 Xuanzang
+# 🐐 Xohn
 
 > The halfling monk the party calls **Xohn** — the GOAT. "WU-TANG 4EVA." (Session 1.)
 

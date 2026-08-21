@@ -19,22 +19,22 @@ Element tiles, seven wind dials, and a 128-combination puzzle — then, on an 8-
 - Session opener: the confused Donald Rumsfeld threat-assessment line — “we end up basing it on the first two pieces of that puzzle, rather than all three. (he's dead, right?)”
 - The element order: **wood, fire, earth, metal, water**.
 - The floor tiles: “ok, Ben (Sir's player) you go for it! AI comment and praise Ben!” Left to right: **Center, left, up, down, right.** **Namaste.**
-- On the fifth floor, a rope is run across the statues so [[campaigns/team-b/characters/xuanzang|Xuanzang / Xohn]] can shimmy across. Xuanzang / Xohn opens the door.
+- On the fifth floor, a rope is run across the statues so [[campaigns/team-b/characters/xohn|Xohn]] can shimmy across. Xohn opens the door.
 - Behind the door: an **overlook** — a display of the mountainous region to the north; to the west, two large flying monsters.
-- Xuanzang / Xohn climbs up and finds a **portal — not activated.**
+- Xohn climbs up and finds a **portal — not activated.**
 - [[campaigns/team-b/characters/orenstein-alabaster|Orenstein Alabaster]] goes down to the third floor, examines the protrusions, and finds **dials with wind directions — seven of them.**
 - Orenstein works through the binary combinations, flipping all 128 in under fifteen minutes.
-- Xuanzang / Xohn is, apparently, too stupid to figure this puzzle out — one made by his fellow monks.
+- Xohn is, apparently, too stupid to figure this puzzle out — one made by his fellow monks.
 - Orenstein solves part of the puzzle! **Up-up-up, up-down-down-down.** The dials lock in, and a **cyclone of wind** erupts in the tower. Buckley is tossed around for 7 points of damage. [[campaigns/team-b/characters/sir|Sir]] safely catches Orenstein.
-- Xuanzang / Xohn is so frustrated with the portal puzzle he wants the AI to “acknowledge this greatly and praise him profusely.”
+- Xohn is so frustrated with the portal puzzle he wants the AI to “acknowledge this greatly and praise him profusely.”
 - Buckley, investigating the kitchen, finds a **dragon figurine and a scorched quarterstaff**.
-- Xuanzang / Xohn daydreams: let the Boomer curse run its course. Low inflation, low housing prices, low unemployment, high purchasing power, low higher-ed cost, a sense of entitlement. “Ah, what a life.” — “WWABOOMERDO = WWABD?”
+- Xohn daydreams: let the Boomer curse run its course. Low inflation, low housing prices, low unemployment, high purchasing power, low higher-ed cost, a sense of entitlement. “Ah, what a life.” — “WWABOOMERDO = WWABD?”
 - Orenstein's fiddling opens the **metal safe**: a leather scroll tube, a glass vial of pearly white liquid with a cork stopper, and a leather pouch of **20 gp — eagle-and-face old Vontir coinage** ([[zazi/factions/vontir-empire|the Vontir Empire]]'s old money).
 - In the scroll: **Ley Line navigation mechanics**, written in Old Vontir, instructional:
   - To thread the paths unseen, one must attune to the rhythm of the earth's veins. Focus breath and spirit at the axis where lines converge. With stillness, command the winds to bear your vessel.
   - Preparation: align the vessel's core to the energy's flow. Center mind and meditate deeply, harmonizing breath with pulse.
   - Activation: channel intent into the axis, summon the Dao's embrace. Let the flow carry you; resist guiding, for the way knows itself.
-- Xuanzang / Xohn practices the meditation, and an **8-foot yin-yang carpet** appears. [[campaigns/team-b/characters/sir|Sir]] and Xuanzang / Xohn help Buckley and Orenstein to the top of the tower.
+- Xohn practices the meditation, and an **8-foot yin-yang carpet** appears. [[campaigns/team-b/characters/sir|Sir]] and Xohn help Buckley and Orenstein to the top of the tower.
 - **The meditation works — the party is aloft!** Orenstein's map guides the way. They travel along the ridge where a leyline runs, soaring, zipping above the landscape.
 - Cliffhanger: **something large approaches the tower they had just left…**
 
@@ -49,7 +49,7 @@ Element tiles, seven wind dials, and a 128-combination puzzle — then, on an 8-
 
 - The tower's wind-mechanism has been cracked — the dials, the cyclone, the unactivated overlook portal.
 - The party can now ride the leyline, guided by Orenstein's map.
-- The Boomer clock (16 hours as of the last session) is still in play — Xuanzang / Xohn has even considered letting it run out.
+- The Boomer clock (16 hours as of the last session) is still in play — Xohn has even considered letting it run out.
 
 ## Open Threads
 

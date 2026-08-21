@@ -21,7 +21,7 @@ status: draft
 - **Loot in the bog:** a backpack with climber kits, silk ropes, gems, a scroll tube, 2 potions, a "spider coin," a gold plaque (worth 50), and 12 straps (worth 50sp).
 
 ## The bearded face
-On the wall, found by Buckley in the session's final fight: a **large bearded face in impressive stonework** — likely **dwarven**. Xuanzang may recognize it (the notes gesture at "perhaps Moradin?" from a book of Hebbock history: "after the wars… northeastern wars, orc wars"). Sir's thought: *fish-people and dwarves have more in common than she thought* — and she has killed a part of herself.
+On the wall, found by Buckley in the session's final fight: a **large bearded face in impressive stonework** — likely **dwarven**. Xohn may recognize it (the notes gesture at "perhaps Moradin?" from a book of Hebbock history: "after the wars… northeastern wars, orc wars"). Sir's thought: *fish-people and dwarves have more in common than she thought* — and she has killed a part of herself.
 
 ## In play
 - The party is resting here with Buckley; the fish-man is still being pursued; [[campaigns/team-b/characters/thora|Thora]] is still missing. The next session begins where this one left off.

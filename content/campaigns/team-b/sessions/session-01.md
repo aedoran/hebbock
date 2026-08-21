@@ -16,7 +16,7 @@ A strange collection of characters assembles at the Mountain's Respite in [[moun
 
 ## What Happened
 
-- The new party assembles: [[campaigns/team-b/characters/sir|Sir]] (half-orc barbarian), [[campaigns/team-b/characters/thora|Thora]] (dragonborn paladin), [[campaigns/team-b/characters/xuanzang|Xuanzang / Xohn]] (halfling monk, "WU-TANG 4EVA"), and [[campaigns/team-b/characters/orenstein-alabaster|Orenstein Alabaster]] (human wizard per the S1 header — later notes say warlock; conflict kept, flagged in [[_questions|Open Questions]]).
+- The new party assembles: [[campaigns/team-b/characters/sir|Sir]] (half-orc barbarian), [[campaigns/team-b/characters/thora|Thora]] (dragonborn paladin), [[campaigns/team-b/characters/xohn|Xohn]] (halfling monk, "WU-TANG 4EVA"), and [[campaigns/team-b/characters/orenstein-alabaster|Orenstein Alabaster]] (human wizard per the S1 header — later notes say warlock; conflict kept, flagged in [[_questions|Open Questions]]).
 - Midsummer, a fortnight before the summer solstice; hot in the mountains. Elk and deer, no bison; horse-sized goats; "trout in the sky, eagles in the rivers, something like that" (as written).
 - Stonehaven: a village built into the mountainside, dwarves and half-orcs united in defense against orcs.
 - The Mountain's Respite Inn, run by Thraine, a dwarf; solid oak door, weathered. "Why, it is the party! Fancy that."

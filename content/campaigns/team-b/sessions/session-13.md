@@ -22,24 +22,24 @@ A blue dragonborn named Buckley appears among the wildflowers by [[mountains/loc
 - Boomerstein approaches: “Hello! Why are you here? What the hell is going on?” [[campaigns/team-b/characters/sir|Sir]] brings up the “rear” — ooh la la. A conversation ensues.
 - Boomerstein presents the **dragon statuette** to the new blue dragonborn being.
 - **16 hours** on the Boomer clock — which looks like a grandfather clock (made very cheaply in a “third world” country by child laborers, because he doesn't know the term “Global South”).
-- [[campaigns/team-b/characters/xuanzang|Xuanzang / Xohn]]'s **helmeted ape figurine**, he thinks, can summon a helmeted ape — similar to a marauding WWI German army soldier in propaganda posters.
+- [[campaigns/team-b/characters/xohn|Xohn]]'s **helmeted ape figurine**, he thinks, can summon a helmeted ape — similar to a marauding WWI German army soldier in propaganda posters.
 - The party slinks up to the tower wall. The front door is closed. It's not clear how to either enter or climb up into the tower.
 - **Buckley starts singing** — a song that tells the story of draconic things. The kobolds are very taken with the song and the illusion Boomerstein has produced. “Ah, what a wonderful song!” the kobolds say, in draconic.
 - Upon seeing Boomerstein, the kobolds are driven into a **raging frenzy**. Battle starts.
 - Sir screams in a rage, driving up the stairs and cutting the first kobold in half.
 - Buckley attacks the kobolds. They've been…
 - Boomerstein Eldritch Blasts the kobolds. Buckley and Boomerstein take out a number of them.
-- Xuanzang / Xohn, while trying to be sneaky, triggers a trap when entering the tower floor — he luckily avoids being pummeled by the falling rocks. He feels a bit dumb for not thinking about the possible traps.
+- Xohn, while trying to be sneaky, triggers a trap when entering the tower floor — he luckily avoids being pummeled by the falling rocks. He feels a bit dumb for not thinking about the possible traps.
 - Buckley panics, momentarily thinking he's lost darkvision — it's net-rock dust in his eye.
-- Xuanzang / Xohn is under fire and gets hurt a bit from bullets, etc.
+- Xohn is under fire and gets hurt a bit from bullets, etc.
 - Sir approaches the stairs fast, understanding they might be cover, and runs down them. She finds a **kitchen**; Buckley joins.
 - On the bottom floor: a **fountain with a faint font** on it. Confident the fountain and kitchen are clear, Sir and Buckley return.
-- Xuanzang / Xohn and Orenstein regroup outside. Xuanzang / Xohn activates his Kaiser monkey, **Hans**: “Do you want to see my monkey??”
+- Xohn and Orenstein regroup outside. Xohn activates his Kaiser monkey, **Hans**: “Do you want to see my monkey??”
 - Hans goes around the tower taking out kobolds pretty ruthlessly. A fire bolt hits Hans — but his “blue shield” protects him.
-- The tide turns against the kobolds. “**Unleash the Hun!**” Xuanzang / Xohn thinks.
+- The tide turns against the kobolds. “**Unleash the Hun!**” Xohn thinks.
 - The apeman anthem plays: “I'm an apeman, I'm an ape, apeman, oh I'm an apeman / I'm a King Kong man, I'm a voodoo man, oh I'm an apeman / 'Cause compared to the sun that sits in the sky / Compared to the clouds as they roll by / Compared to the bugs and the spiders and flies I am an apeman.”
 - **THE GOATS ARE MAYBE WINNING NOW!**
-- A wounded Xuanzang / Xohn drinks his healing potion to rejoin the fight. **THE GOATIEST IS BACK BAYBEEE.**
+- A wounded Xohn drinks his healing potion to rejoin the fight. **THE GOATIEST IS BACK BAYBEEE.**
 - The tower's floors, as the party pushes through:
   - **Second floor:** a mural in **Old Vontir** encircles the floor — it gives direction, literally (see the poem below).
   - **Third floor:** it's greased! Sir and Buckley slide safely, following Hans' lead. A shield and some books.

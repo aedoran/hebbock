@@ -19,7 +19,7 @@ A feline hunter's voice booms from the sky — "Ahoy! Get eaten, fuckers!" — t
 - A feline hunter's voice booms from the sky! "Ahoy! Get eaten, fuckers!" Initiative! "How random!"
 - [[campaigns/team-b/characters/thora|Thora]] is wounded by a tail thorn; Thora and [[campaigns/team-b/characters/sir|Sir]] decide to run for the tower.
 - [[campaigns/team-b/characters/orenstein-alabaster|Orenstein]] uses magic hand to send rations up to the flying creature, but the creature decides Orenstein is more interesting! "Kibble vs mouse!" (as written). Orenstein says his magic food will prevent upset tummy.
-- [[campaigns/team-b/characters/xuanzang|Xohn]] hides behind a rock for a while, then finally attacks.
+- [[campaigns/team-b/characters/xohn|Xohn]] hides behind a rock for a while, then finally attacks.
 - The manticore is damaged and driven back, but angry.
 - Thora is dropped; Sir stabilizes her. With Thora's blood on her hands, Sir rages and pins down the beast's wing so it can no longer fly. Xohn and Orenstein attack with furious anger; Sir deals the death blow!
 - The party is victorious and returns to Rumsfield, where Thora regains consciousness.

@@ -158,7 +158,7 @@ updated: 2026-08-21
 | The Party (Team B) | `team-b-party` | Goat Company, GOAT's Guardian | party | [[campaigns/team-b/party\|The Party]] |
 | Sir | `sir` | | pc | [[campaigns/team-b/characters/sir\|Sir]] |
 | Thora | `thora` | the dragonborn paladin | pc | [[campaigns/team-b/characters/thora\|Thora]] |
-| Xuanzang | `xuanzang` | Xohn, the GOAT | pc | [[campaigns/team-b/characters/xuanzang\|Xuanzang]] |
+| Xohn | `xohn` | Xuanzang (character-sheet spelling), the GOAT | pc | [[campaigns/team-b/characters/xohn\|Xohn]] |
 | Orenstein Alabaster | `orenstein-alabaster` | Orenstein, Boomerstein, Old Man Orenstein | pc | [[campaigns/team-b/characters/orenstein-alabaster\|Orenstein Alabaster]] |
 | Buckley | `buckley` | the blue dragonborn | pc | [[campaigns/team-b/characters/buckley\|Buckley]] |
 | Kim | `kim` | Kim the sprite | npc (familiar) | [[campaigns/team-b/npcs/kim\|Kim]] |

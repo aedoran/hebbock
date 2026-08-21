@@ -18,4 +18,4 @@ status: draft
 - A map/scroll for traveling the **[[mountains/worldbuilding/leylines|leylines]]** — the same ridge the party learned to fly on the yin-yang carpet.
 
 ## In play
-- Xuanzang's own scroll is in the same (unnamed) language; the Vryrrk Basta library manuscript is too — the Old Vontir knowledge thread is closing. What the pearly-white vial does is unknown. See [[_questions|Open Questions]].
+- Xohn's own scroll is in the same (unnamed) language; the Vryrrk Basta library manuscript is too — the Old Vontir knowledge thread is closing. What the pearly-white vial does is unknown. See [[_questions|Open Questions]].

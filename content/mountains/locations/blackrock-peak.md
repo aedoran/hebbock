@@ -28,7 +28,7 @@ status: draft
 - **The parapet, at night:** the ghost of [[mountains/npcs/vigo-dunaedin|Vigo Dunaedin]] appears.
 
 ## Loot (as taken)
-- The [[campaigns/team-b/items/high-elven-leaf-treasure|High Elven leaf treasure]]: gold ring (Sir's pinky), tortoise amulet (symbol of High Elven King [[mountains/npcs/kalvulaen-viltannen|Kalvulaen Vil'Tannen]]), a golden circlet, three leaf-etched d20s — **Xuanzang's circlet bears the mark of the traitor**.
+- The [[campaigns/team-b/items/high-elven-leaf-treasure|High Elven leaf treasure]]: gold ring (Sir's pinky), tortoise amulet (symbol of High Elven King [[mountains/npcs/kalvulaen-viltannen|Kalvulaen Vil'Tannen]]), a golden circlet, three leaf-etched d20s — **Xohn's circlet bears the mark of the traitor**.
 - The manticore's dart; two longbows and arrows.
 
 ## In play

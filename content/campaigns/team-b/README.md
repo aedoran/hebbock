@@ -5,7 +5,7 @@ type: campaign
 aliases: [GOAT Company, the GOAT campaign, Team B campaign]
 tags: [campaign]
 world: Hebbock
-party: [Sir, Thora, Xuanzang, Orenstein Alabaster, Buckley]
+party: [Sir, Thora, Xohn, Orenstein Alabaster, Buckley]
 status_campaign: active
 created: 2026-08-21
 updated: 2026-08-21
@@ -24,11 +24,11 @@ status: draft
 - **The party's working name:** "Goat Company" (S7, an "acceptable placeholder").
 
 ## Status (as of Session 20, 3/16/2025)
-- Resting in the yin-yang tomb. [[campaigns/team-b/characters/thora|Thora]] missing since the statuette's blue-green flash (S12). [[campaigns/team-b/characters/orenstein-alabaster|Orenstein]] is a Boomer — the spell to reverse it was paid for; whether it has been cast is not yet in the notes. [[campaigns/team-b/characters/xuanzang|Xuanzang]]'s circlet bears the mark of the traitor. The red dragon [[mountains/npcs/rhiltannaxis|Rhiltannäxis]] has not yet been met in the notes.
+- Resting in the yin-yang tomb. [[campaigns/team-b/characters/thora|Thora]] missing since the statuette's blue-green flash (S12). [[campaigns/team-b/characters/orenstein-alabaster|Orenstein]] is a Boomer — the spell to reverse it was paid for; whether it has been cast is not yet in the notes. [[campaigns/team-b/characters/xohn|Xohn]]'s circlet bears the mark of the traitor. The red dragon [[mountains/npcs/rhiltannaxis|Rhiltannäxis]] has not yet been met in the notes.
 
 ## The players (as named in the notes)
 - **Ben** — plays Sir (Rumsfeld/Bush Jr. poster kid).
-- **Greg** — plays [[campaigns/team-b/characters/xuanzang|Xuanzang]] ("Xohn," the GOAT).
+- **Greg** — plays [[campaigns/team-b/characters/xohn|Xohn]] ("Xohn," the GOAT).
 - **Cotter** — reads the drow journal; named the manuscript's author "Yongo the Younger."
 - **Thora**'s and **Orenstein**'s players are not named in the notes.
 

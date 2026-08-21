@@ -12,7 +12,7 @@ status: draft
 
 # 🎲 Session 5 — The Spider Falls
 
-A succulent goat with rainbow sprinkles lures the giant spider into the open — where [[campaigns/team-b/characters/thora|Thora]] and [[campaigns/team-b/characters/xuanzang|Xohn]] "absolutely smash it to death."
+A succulent goat with rainbow sprinkles lures the giant spider into the open — where [[campaigns/team-b/characters/thora|Thora]] and [[campaigns/team-b/characters/xohn|Xohn]] "absolutely smash it to death."
 
 ## What Happened
 

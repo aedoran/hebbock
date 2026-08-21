@@ -21,7 +21,7 @@ Up a mountain in [[hebbock/worldbuilding/hebbock|Hebbock]], [[campaigns/team-b/p
 - Is the ring magical? The group tests it. [[campaigns/team-b/characters/sir|Sir]] bites into the ring. It slides onto her pinky finger. Sir is really into her new ring.
 - Plan: [[campaigns/team-b/characters/orenstein-alabaster|Orenstein Alabaster]] guides a Mage Hand from behind the door, with Sir and Thora on either side of the doorway — “Go GOAT Squad, Go!” Nothing appears to happen when Orenstein grabs the bag.
 - Orenstein opens the bag: an **amulet (a tortoise, another golden leaf)** — a symbol of the High Elven King, [[mountains/npcs/kalvulaen-viltannen|Kalvulaen Vil'Tannen]], “the Elven King of the High Elves in Vil'Tanee.” Orenstein is paranoid.
-- Bigger bag now: a large golden ring to go on someone's head — another leaf. Another bag: three d20s, a little leaf etched into each one. [[campaigns/team-b/characters/xuanzang|Xuanzang / Xohn]] tries on all the High Elven stuff: nothing happens. They each wear one of the items anyway.
+- Bigger bag now: a large golden ring to go on someone's head — another leaf. Another bag: three d20s, a little leaf etched into each one. [[campaigns/team-b/characters/xohn|Xohn]] tries on all the High Elven stuff: nothing happens. They each wear one of the items anyway.
 - Up the stairs. Xohn leaps atop Thora's shoulders, kills a strige, leaps onto Sir and kills a second stirge — the big brain has this great idea to kill them! Sir and Orenstein kill the other two. Lololol.
 - The **shrine**: five plates with steel tracks and embedded gems, in the shape of a pentagram. The rock is weathered beyond recognition. “founding stars” is written on it in the same language as the dart found in the manticore. Eight quartz crystal gems. A large bronze bell with a wave pattern. The party will return to the puzzle at a later time.
 - They ascend the ladder. Xohn almost falls! But catches himself with one hand. Because he's the GOAT.
@@ -46,12 +46,12 @@ Up a mountain in [[hebbock/worldbuilding/hebbock|Hebbock]], [[campaigns/team-b/p
 
 - Orenstein Alabaster is now 60 — “Boomer Orenstein” — with a 24-hour clock on greater restoration.
 - The ghost of Vigo Dunaedin haunts the mountain parapet by night, demanding the blood of his traitorous brother.
-- Xuanzang / Xohn's circlet is revealed to bear the mark of the traitor.
+- Xohn's circlet is revealed to bear the mark of the traitor.
 
 ## Open Threads
 
 - Who is the traitor — Vigo Dunaedin's brother of Astogrolluu (the new Vil'Tanee)?
 - Where is a greater restoration within 24 hours?
 - What does the pentagram shrine do, and what is the bronze bell with the wave pattern for?
-- Why does Xuanzang / Xohn's circlet bear the mark of the traitor?
+- Why does Xohn's circlet bear the mark of the traitor?
 - See also [[_questions|Open Questions]].

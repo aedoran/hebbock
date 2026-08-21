@@ -25,8 +25,8 @@ status: draft
 ## Organization
 - **Monks** build and maintain the towers (the [[mountains/locations/blackrock-peak|Blackrock Peak watchtower]], the [[mountains/locations/kobold-air-tower|Eastern Ridge air tower]]).
 - A **mummified monk** waits in the [[mountains/locations/yin-yang-tomb|yin-yang tomb]] (Session 18).
-- An **undercover/spy subset** of the order exists, of which [[campaigns/team-b/characters/xuanzang|Xuanzang]] knows little.
-- **Xuanzang** (halfling monk) is a member who **broke a rule** and was sent on a **quest to find balance again** — he doesn't know how.
+- An **undercover/spy subset** of the order exists, of which [[campaigns/team-b/characters/xohn|Xohn]] knows little.
+- **Xohn** (halfling monk) is a member who **broke a rule** and was sent on a **quest to find balance again** — he doesn't know how.
 
 ## In play
 - The order's legacy is everywhere in the campaign: the towers, the glyphs, the kama statues, the wind dials, the [[mountains/items/leyline-scroll|leyline scroll]] — and the red dragon [[mountains/npcs/rhiltannaxis|Rhiltannäxis]] who waits at the kobold tower.

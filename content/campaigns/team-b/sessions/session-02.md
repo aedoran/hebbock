@@ -21,7 +21,7 @@ The [[campaigns/team-b/party|party]] crosses the gate of the [[mountains/locatio
 - The barbarian draws axe and shield, ready to strike; the halfling monk strikes a defensive pose; "the human raises an eyebrow, curious about the figure ahead!"
 - [[campaigns/team-b/characters/sir|Sir]] cautiously steps forward… and is swarmed by starving rats!
 - Rats defeated!
-- [[campaigns/team-b/characters/xuanzang|Xohn]] spots a giant spider up on the ceiling!
+- [[campaigns/team-b/characters/xohn|Xohn]] spots a giant spider up on the ceiling!
 - "Now there are skeletons, wtf!" Battle ensues. "This shit cray." (again)
 - The skeletons are defeated — "by Xohn Xohn Xohn!"
 - The spider skitters away into the dark.

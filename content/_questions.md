@@ -112,8 +112,8 @@ _Fresh from the third churn (Session Notes — Team B, **20 sessions**, 9/1/2024
 
 - [ ] **Q18 — The campaign's title** — the notes never name this campaign (only "Team B" and the working party name **Goat Company**). What's the true title? (I've registered it as *Team B* for now — same as how *The Avengers* came out of "Team C." 🐐)
 - [ ] **Q19 — Orenstein's class** — Session 1's header says **human wizard**; later notes say **warlock** ("as a warlock has been given great power by a god"). Which is canon — or is the shift part of the Boomer curse?
-- [ ] **Q20 — Xuanzang / Xohn** — which spelling is canonical? (The name "Xuanzang" is the one in the character sheet; the party calls him Xohn. I've kept both, Xuanzang first.)
-- [ ] **Q21 — The players** — Ben = Sir, Greg = Xuanzang (Xohn), Cotter = ? — who plays Thora, Orenstein, and Buckley? (Cotter reads the drow journal and names Yongo the Younger, but I couldn't confirm a character.)
+- [x] **Q20 — Xuanzang / Xohn** — **Ruled 2026-08-21 (aedoran): canonical name is Xohn.** "Xuanzang" (the character-sheet spelling) is kept as an alias; his page lives at `campaigns/team-b/characters/xohn`.
+- [ ] **Q21 — The players** — Ben = Sir, Greg = Xohn (Xohn), Cotter = ? — who plays Thora, Orenstein, and Buckley? (Cotter reads the drow journal and names Yongo the Younger, but I couldn't confirm a character.)
 - [ ] **Q22 — The 16 embedded images** — the raw Team B file carries 16 base64 images (maps, photos of dice?). Extract them into the vault as assets, or does the text record suffice? (Same question as Team C's Q15.)
 
 ### The plot threads

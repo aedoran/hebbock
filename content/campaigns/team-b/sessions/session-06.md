@@ -17,7 +17,7 @@ With little examination, Orenstein's mage hand picks up a bag. Two suits of armo
 ## What Happened
 
 - The party stands before the open chest presenting an Elvish riddle. Four bags. With little examination, [[campaigns/team-b/characters/orenstein-alabaster|Orenstein]]'s mage hand picks up a bag — which activates two suits of armor and four flying swords! The trap springs.
-- [[campaigns/team-b/characters/sir|Sir]] advances, misses her attack, and takes a hit from a sword. [[campaigns/team-b/characters/xuanzang|Xohn]] moves up to form a front line ("he's fronting" — as written). [[campaigns/team-b/characters/thora|Thora]] misses with her "hamma" (as written).
+- [[campaigns/team-b/characters/sir|Sir]] advances, misses her attack, and takes a hit from a sword. [[campaigns/team-b/characters/xohn|Xohn]] moves up to form a front line ("he's fronting" — as written). [[campaigns/team-b/characters/thora|Thora]] misses with her "hamma" (as written).
 - "Orenstein is acting like a little bitch JK." (as written) Orenstein, observing the battle: "These guys aren't going to hallucinate–they don't even have eyes!" (as written)
 - Xohn attacks and is able to destroy a "s" word (as written — the word appears exactly as written in the notes).
 - Thora heals Sir with "cure wounds." Orenstein tries to mage hand the bag back to whence it came; the "s" word slashes at the bag, and a flash of gold sparks through the air.

@@ -23,7 +23,7 @@ status: draft
 - **[[campaigns/team-b/characters/buckley|Buckley]]** — a blue dragonborn (his light is blue-green, where [[campaigns/team-b/characters/thora|Thora]]'s was green-blue) found by the tower and now of the party.
 
 ## The library
-- A manuscript in the **same language as Xuanzang's scroll**: the towers' decline matches the **Old [[zazi/factions/vontir-empire|Vontir]] empire** — *"After the long war, despite victory, the Old Vontir empire collapsed."*
+- A manuscript in the **same language as Xohn's scroll**: the towers' decline matches the **Old [[zazi/factions/vontir-empire|Vontir]] empire** — *"After the long war, despite victory, the Old Vontir empire collapsed."*
 - The author **fled the city and settled in Rockhaven, a dwarven settlement**; the players (Cotter) name him **Yongo the Younger** (who "plays the bongos with the Dude").
 - The date is **3,334** by a super-weird calendar — it is the **past**, not the future, even though the number is big.
 - Also in the library: ***The Curious Case of Argyle McBottoms*** — three warlock summons; Argyle is driven mad, jumps off a cliff, lands paralyzed, and his eyes are pecked out.

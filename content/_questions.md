@@ -24,8 +24,8 @@ _Where the same thing has two or more spellings. "Which name is the true one?"_
 
 - [x] **Hebach** — a typo; the world is **Hebbock**. (Ruled 2026-08-20. `hebbock/locations/hebach` page retired; all references relinked to [[hebbock/worldbuilding/hebbock|Hebbock]].)
 - [x] **Vault of Dumathoin** — **the order**. The building is the **Cathedral of Dumathoin**, its seat. (Ruled 2026-08-20. Cathedral page de-aliased; naming notes resolved on both pages.)
-- [ ] **Randælfine** — is the true spelling Randælfine (with the Æ), and is "Randalfine" ever used as a variant? (I transliterated the æ as `ae` in the slug.)
-- [ ] **Pim / Pimp** — is "Pimp" (her brain-cane persona) worth tracking as a formal alias?
+- [x] **Randælfine** — the true spelling is **Randælfine** (the weird ae ligature, as written). (Ruled 2026-08-21: "its Rand(ae)lfine the weird ae combo." "Randalfine" is only the slug transliteration, already noted on the page.)
+- [x] **Pim / Pimp** — **"Pimp" is just a funny one-time nickname** under brain cane — not a formal alias. (Ruled 2026-08-21. Removed from the alias list; kept only as in-play flavor on her page.)
 
 ## 🏛️ Organizations
 

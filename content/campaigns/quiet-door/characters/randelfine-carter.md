@@ -2,7 +2,7 @@
 title: "Randælfine Carter"
 slug: randelfine-carter
 type: pc
-aliases: [Randælfine, Randalfine, Randalfine Carter]
+aliases: [Randælfine, Randalfine (slug transliteration), Randalfine Carter]
 tags: [pc, quiet-door]
 race: Drow
 class: Warlock
@@ -21,6 +21,9 @@ status: draft
 
 ## Overview
 Randælfine is the party's shadow and its most dangerous member — to the party. His grand design, insofar as madness has design, is cosmic: let the deep cities be devoured. He speaks in a syllabic giggle that is almost a language, dances forever at the border where torchlight dies into shadow, and whispers uninvited into the minds of anyone within thirty feet. He is delighted by everything you fear.
+
+## Naming
+- Canonical spelling: **Randælfine** — the weird ae ligature, as written (ruled 2026-08-21). "Randalfine" is only the slug transliteration.
 
 ## Details
 - Race / Class / Level: Drow Warlock of the Great Old One, level 2 (by Session IV)
@@ -57,4 +60,4 @@ Male drow. Undulates every limb at a different frequency. Moves in arrhythmic sh
 - [[campaigns/quiet-door/sessions/session-04|Session IV]] — the natural-20 perception on the dead's bouquet; the rapier through Brother Hethrin's chainmail; the Arms of Cthulhu; the moonwalk.
 
 ## Open Questions
-- See [[../../../_questions|_questions.md]] — "Randælfine" is unusual as a drow name (sounds elven); is the variant spelling "Randalfine" ever used, and is the true spelling Randælfine?
+- See [[../../../_questions|_questions.md]] — spelling of the name is resolved (see Naming); any further naming notes still open there.

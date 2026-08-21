@@ -91,7 +91,7 @@ updated: 2026-08-20
 | Baelson | `baelson` | the Avenging Night Angel of St. Cuthbert, the Night Angel | pc | [[campaigns/quiet-door/characters/baelson\|Baelson]] |
 | Vlix Boggs | `vlix-boggs` | Vlix, Boggs | pc | [[campaigns/quiet-door/characters/vlix-boggs\|Vlix Boggs]] |
 | Randælfine Carter | `randelfine-carter` | Randelfine (transliterated), the drow | pc | [[campaigns/quiet-door/characters/randelfine-carter\|Randælfine Carter]] |
-| Pim | `pim` | Pimp (under brain cane) | pc | [[campaigns/quiet-door/characters/pim\|Pim]] |
+| Pim | `pim` | ("Pimp" was a one-time brain-cane joke, not a formal alias — ruled 2026-08-21) | pc | [[campaigns/quiet-door/characters/pim\|Pim]] |
 | Cororic's Compass | `corricos-compass` | | item | [[campaigns/quiet-door/items/corricos-compass\|Cororic's Compass]] |
 | Cororic's Notebook | `corricos-notebook` | the kuo-toa notebook | item | [[campaigns/quiet-door/items/corricos-notebook\|Cororic's Notebook]] |
 | Session I — It's Not a Wishing Well | `session-01` | | session | [[campaigns/quiet-door/sessions/session-01\|Session I]] |

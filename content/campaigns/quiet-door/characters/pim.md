@@ -2,7 +2,7 @@
 title: "Pim"
 slug: pim
 type: pc
-aliases: [Pimp (on brain cane)]
+aliases: []
 tags: [pc, quiet-door]
 race: Svirfneblin
 class: Rogue
@@ -22,7 +22,7 @@ status: draft
 ## Overview
 Pim was one of the two svirfneblin guides hired in [[hebbock/locations/hargate|Hargate]] (alongside [[hebbock/npcs/vesque|Vesque]]). When the guide "Vesque" calling from ahead turned out to be a lure and the real Vesque lay dead, Pim did not stay lost — she shadowed the party through the dark, and in Session III dropped out of the shadows with a nineteen and a courteous bow. She chose to stay.
 
-When the drug called [[hebbock/items/brain-cane|brain cane]] enters her small body, Pim becomes **Pimp** — faster, louder, and utterly convinced of her own invincibility.
+When the drug called [[hebbock/items/brain-cane|brain cane]] enters her small body, Pim becomes **Pimp** — faster, louder, and utterly convinced of her own invincibility. *("Pimp" is a funny one-time nickname, not a formal alias — ruled 2026-08-21.)*
 
 ## Details
 - Race / Class / Level: Svirfneblin Rogue, level 2 (by Session IV)

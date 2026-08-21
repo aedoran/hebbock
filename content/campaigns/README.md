@@ -2,7 +2,7 @@
 
 > One subfolder **per campaign**. Each holds that campaign's own records: its party, its characters, its sessions, its arcs — the story as it unfolded.
 >
-> World truth lives in the continent tier of the campaign's continent ([[hebbock/README|hebbock/]] for the world heart, [[zazi/README|zazi/]] for the Zazi continent — same world, ruled 2026-08-20). Campaign folders hold the *journey*; the tier holds the *world the journey happened in*.
+> World truth lives in the region/continent tier of the campaign's setting ([[hebbock/README|hebbock/]] for the world heart, [[zazi/README|zazi/]] for the Zazi continent, [[mountains/README|mountains/]] for the mountain region — one world, ruled 2026-08-20/21). Campaign folders hold the *journey*; the tier holds the *world the journey happened in*.
 
 ## Structure
 
@@ -26,9 +26,10 @@ campaigns/
 |---|---|---|---|---|---|
 | Quiet Door | [[hebbock/worldbuilding/hebbock\|Hebbock (world heart)]] | `quiet-door` | [[quiet-door/party\|The Party]] | active | [[quiet-door/README\|Quiet Door]] |
 | The Avengers | [[zazi/worldbuilding/zazi\|Zazi continent]] | `team-c` | [[team-c/party\|The Party]] | active | [[team-c/README\|The Avengers]] |
+| Team B | [[mountains/README\|mountain region (placement open — Q16)]] | `team-b` | [[team-b/party\|The Party]] | active (Q23) | [[team-b/README\|Team B]] |
 
 - **Slug** — kebab-case, folder name.
-- **Continent** — the continent tier the campaign is played in (one world, two known continent tiers).
+- **Continent** — the region/continent tier the campaign is played in (one world, three known tiers).
 - **Party** — link to the party page.
 - **Status** — active · ongoing · concluded · abandoned.
 

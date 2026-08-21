@@ -3,7 +3,7 @@ title: "Open Questions"
 type: registry
 tags: [registry]
 created: 2026-08-20
-updated: 2026-08-20
+updated: 2026-08-21
 ---
 
 # ❓ Open Questions
@@ -96,6 +96,30 @@ _Fresh from the second churn (Session Notes — Team C, 15 sessions, 2025-05-31 
 
 - [ ] **Q14 — Session 14 ("robot")** — the notes are header-only (five/17/26) with four embedded map images. Is there prose to recover, or should the stub stand as-is? And are there sessions beyond 14?
 - [ ] **Q15 — The four map images** — the raw file carries them as embedded base64 (934KB). Want them **extracted into the vault** as image assets (e.g. `assets/team-c/`), or does the text record suffice?
+
+---
+
+## 🐐 Team B
+
+_Fresh from the third churn (Session Notes — Team B, **20 sessions**, 9/1/2024 → 3/16/2025; the mountain region around Stonehaven). The `mountains/` tier is new, and its placement in the world is still your call._
+
+### The world itself
+
+- [ ] **Q16 — Where do the mountains sit?** — The notes place Stonehaven and the peaks in Hebbock, but never say where relative to the Hargate heartland or the Zazi continent. **New continent? A region of the world heart? A separate landmass?** (I carved a `mountains/` tier as a working home; the README flags this as open.)
+- [ ] **Q17 — Old Vontir vs. the Vontir Empire** — the Blackrock watchtower is a "crumbling relic of the old Vontir empire," and Yongo the Younger's manuscript says the **Old Vontir empire collapsed** after the long war — is this the *same* empire as the modern Vontir of the Zazi notes (and if so, how did it survive/re-form on another continent?), or an ancestor/relative? I have **not** merged them yet — your call before I touch the `zazi/` page.
+
+### The party & the naming
+
+- [ ] **Q18 — The campaign's title** — the notes never name this campaign (only "Team B" and the working party name **Goat Company**). What's the true title? (I've registered it as *Team B* for now — same as how *The Avengers* came out of "Team C." 🐐)
+- [ ] **Q19 — Orenstein's class** — Session 1's header says **human wizard**; later notes say **warlock** ("as a warlock has been given great power by a god"). Which is canon — or is the shift part of the Boomer curse?
+- [ ] **Q20 — Xuanzang / Xohn** — which spelling is canonical? (The name "Xuanzang" is the one in the character sheet; the party calls him Xohn. I've kept both, Xuanzang first.)
+- [ ] **Q21 — The players** — Ben = Sir, Greg = Xuanzang (Xohn), Cotter = ? — who plays Thora, Orenstein, and Buckley? (Cotter reads the drow journal and names Yongo the Younger, but I couldn't confirm a character.)
+- [ ] **Q22 — The 16 embedded images** — the raw Team B file carries 16 base64 images (maps, photos of dice?). Extract them into the vault as assets, or does the text record suffice? (Same question as Team C's Q15.)
+
+### The plot threads
+
+- [ ] **Q23 — Is this campaign still running?** — the notes end cleanly on a long rest (3/16/2025) with Thora missing and Orenstein a Boomer. Should the status stay **active**, or is it paused/finished?
+- [ ] **Q24 — Thora's disappearance** — the dragon statuette's blue-green flash: is this a **mystery by design** (like the Quiet Door's), or a thread you already have planned? And is the bearded face on the wall ("perhaps Moradin?") really a dwarf god of Hebbock history, or a red herring in the notes?
 
 ---
 

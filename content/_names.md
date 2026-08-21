@@ -3,12 +3,12 @@ title: "Canonical Names"
 type: registry
 tags: [registry]
 created: 2026-08-20
-updated: 2026-08-20
+updated: 2026-08-21
 ---
 
 # 🧾 Canonical Names
 
-> **Single source of truth** for every entity in this wiki — world-level and campaign-level. One world (Hebbock), two known continent tiers (`hebbock/` = world heart, `zazi/` = the Zazi continent, ruled 2026-08-20) — its slug, and known variants.
+> **Single source of truth** for every entity in this wiki — world-level and campaign-level. One world (Hebbock), three known tiers: `hebbock/` = world heart, `zazi/` = the Zazi continent, `mountains/` = the mountain region around Stonehaven (all ruled same-world 2026-08-20/21) — its slug, and known variants.
 > When I meet a name, I check here first. Not found → I draft it, and if there's any variant spelling or ambiguity, it becomes an open question until you confirm.
 >
 > Variants are aliases, not new pages. One entity, one page.
@@ -126,6 +126,64 @@ updated: 2026-08-20
 | Session 12 — Sandstorm by Darude | `session-12` | | session | [[campaigns/team-c/sessions/session-12\|S12]] |
 | Session 13 — Evil Woman | `session-13` | | session | [[campaigns/team-c/sessions/session-13\|S13]] |
 | Session 14 — robot | `session-14` | binary title = "robot"; header only | session | [[campaigns/team-c/sessions/session-14\|S14]] |
+
+### Region — `mountains/` (the mountain region around Stonehaven — same world of Hebbock; placement relative to Hargate/Zazi still an open question)
+
+| Canonical Name | Slug | Aliases | Type | Page |
+|---|---|---|---|---|
+| Mountains (region) | `mountains` | the mountain region | region | [[mountains/README\|Mountains]] |
+| Stonehaven | `stonehaven` | the Mountain's Respite (its inn) | location | [[mountains/locations/stonehaven\|Stonehaven]] |
+| Blackrock Peak watchtower | `blackrock-peak` | the watchtower | location | [[mountains/locations/blackrock-peak\|Blackrock Peak watchtower]] |
+| Kobold air tower | `kobold-air-tower` | the eastern ridge tower, the air tower | location | [[mountains/locations/kobold-air-tower\|Kobold air tower]] |
+| Vryrrk Basta Caverns | `vryrrk-basta-caverns` | Vryrrk Basta, Dragontown | location | [[mountains/locations/vryrrk-basta-caverns\|Vryrrk Basta Caverns]] |
+| Yin-yang tomb | `yin-yang-tomb` | the cave of the yin-yang | location | [[mountains/locations/yin-yang-tomb\|Yin-yang tomb]] |
+| Order of the Uncarved Block | `order-of-uncarved-block` | the Uncarved Block | faction | [[mountains/factions/order-of-uncarved-block\|Order of the Uncarved Block]] |
+| Leylines | `leylines` | the leyline | worldbuilding | [[mountains/worldbuilding/leylines\|Leylines]] |
+| Vigo Dunaedin | `vigo-dunaedin` | the ghost on the parapet | npc | [[mountains/npcs/vigo-dunaedin\|Vigo Dunaedin]] |
+| Rhiltannäxis | `rhiltannaxis` | Réaltenaxis (S16 variant, as written), the red dragon | npc | [[mountains/npcs/rhiltannaxis\|Rhiltannäxis]] |
+| Thrallax | `thrallax` | High Priest Thrallux (S9/S15 spelling) | npc | [[mountains/npcs/thrallax\|Thrallax]] |
+| Argin Noroxious | `argin-noroxious` | the greeter | npc | [[mountains/npcs/argin-noroxious\|Argin Noroxious]] |
+| Kalvulaen Vil'Tannen | `kalvulaen-viltannen` | the High Elven King of Vil'Tanee | npc | [[mountains/npcs/kalvulaen-viltannen\|Kalvulaen Vil'Tannen]] |
+| Eric the Idle | `eric-the-idle` | the singing stranger | npc | [[mountains/npcs/eric-the-idle\|Eric the Idle]] |
+| Thraine | `thraine` | Thrain (variant), the dwarf innkeeper | npc | [[mountains/npcs/thraine\|Thraine]] |
+| Gilda | `gilda` | the town drunk | npc | [[mountains/npcs/gilda\|Gilda]] |
+| Eamon Stonehearth | `eaemon-stonehearth` | the elder of Stonehaven | npc | [[mountains/npcs/eaemon-stonehearth\|Eamon Stonehearth]] |
+| Leyline scroll | `leyline-scroll` | the Ley Line navigation scroll | item | [[mountains/items/leyline-scroll\|Leyline scroll]] |
+
+### Campaign — `campaigns/team-b/` (world: Hebbock — the mountain region around Stonehaven)
+
+| Canonical Name | Slug | Aliases | Type | Page |
+|---|---|---|---|---|
+| Team B | `team-b` | Goat Company, the GOAT campaign (working party name) | campaign | [[campaigns/team-b/README\|Team B]] |
+| The Party (Team B) | `team-b-party` | Goat Company, GOAT's Guardian | party | [[campaigns/team-b/party\|The Party]] |
+| Sir | `sir` | | pc | [[campaigns/team-b/characters/sir\|Sir]] |
+| Thora | `thora` | the dragonborn paladin | pc | [[campaigns/team-b/characters/thora\|Thora]] |
+| Xuanzang | `xuanzang` | Xohn, the GOAT | pc | [[campaigns/team-b/characters/xuanzang\|Xuanzang]] |
+| Orenstein Alabaster | `orenstein-alabaster` | Orenstein, Boomerstein, Old Man Orenstein | pc | [[campaigns/team-b/characters/orenstein-alabaster\|Orenstein Alabaster]] |
+| Buckley | `buckley` | the blue dragonborn | pc | [[campaigns/team-b/characters/buckley\|Buckley]] |
+| Kim | `kim` | Kim the sprite | npc (familiar) | [[campaigns/team-b/npcs/kim\|Kim]] |
+| Dragon statuette | `dragon-statuette` | the dragon statue | item | [[campaigns/team-b/items/dragon-statuette\|Dragon statuette]] |
+| High Elven leaf treasure | `high-elven-leaf-treasure` | the leaf treasure, the velvet pouches | item | [[campaigns/team-b/items/high-elven-leaf-treasure\|High Elven leaf treasure]] |
+| Session 1 — A Party of Misfits | `session-01` | | session | [[campaigns/team-b/sessions/session-01\|S1]] |
+| Session 2 — Rats at the Gate | `session-02` | | session | [[campaigns/team-b/sessions/session-02\|S2]] |
+| Session 3 — Xohn's Kick Galore | `session-03` | | session | [[campaigns/team-b/sessions/session-03\|S3]] |
+| Session 4 — Get Eaten, Fuckers | `session-04` | | session | [[campaigns/team-b/sessions/session-04\|S4]] |
+| Session 5 — The Spider Falls | `session-05` | | session | [[campaigns/team-b/sessions/session-05\|S5]] |
+| Session 6 — The Elvish Riddle | `session-06` | | session | [[campaigns/team-b/sessions/session-06\|S6]] |
+| Session 7 — Goat Company | `session-07` | | session | [[campaigns/team-b/sessions/session-07\|S7]] |
+| Session 8 — The Ghost's Thirst | `session-08` | | session | [[campaigns/team-b/sessions/session-08\|S8]] |
+| Session 9 — East Siiiidee | `session-09` | | session | [[campaigns/team-b/sessions/session-09\|S9]] |
+| Session 10 — Urd Slings | `session-10` | | session | [[campaigns/team-b/sessions/session-10\|S10]] |
+| Session 11 — Orenstein's Glorious Body | `session-11` | Curse of the Ghostly Boooooomer (alias from source) | session | [[campaigns/team-b/sessions/session-11\|S11]] |
+| Session 12 — Boomerang | `session-12` | player-given chapter name | session | [[campaigns/team-b/sessions/session-12\|S12]] |
+| Session 13 — The Wildflowers | `session-13` | | session | [[campaigns/team-b/sessions/session-13\|S13]] |
+| Session 14 — Winds of Balance | `session-14` | | session | [[campaigns/team-b/sessions/session-14\|S14]] |
+| Session 15 — The Flying Carpet | `session-15` | | session | [[campaigns/team-b/sessions/session-15\|S15]] |
+| Session 16 — Dragontown | `session-16` | | session | [[campaigns/team-b/sessions/session-16\|S16]] |
+| Session 17 — The Cave of the Yin-Yang | `session-17` | | session | [[campaigns/team-b/sessions/session-17\|S17]] |
+| Session 18 — Giant Toads | `session-18` | | session | [[campaigns/team-b/sessions/session-18\|S18]] |
+| Session 19 — Frog-Reptiles | `session-19` | | session | [[campaigns/team-b/sessions/session-19\|S19]] |
+| Session 20 — The Bearded Face | `session-20` | | session | [[campaigns/team-b/sessions/session-20\|S20]] |
 
 ## How to read this
 - **Canonical Name** — the one true name to use everywhere.

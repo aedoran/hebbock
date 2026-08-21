@@ -32,7 +32,7 @@ _Where the same thing has two or more spellings. "Which name is the true one?"_
 _Membership, rank, allegiances. "Is Lord X still in the guild, or did he leave?"_
 
 - [x] **St. Cuthbert** — a **real** order in Hebbock, not Baelson's fantasy. (Ruled 2026-08-20. Page upgraded from *unverified* to confirmed-real; remaining details to be discovered in play.)
-- [ ] **Vault of Dumathoin** — who leads the order? Is Cororic a member, a leader, or a heretic of it?
+- [x] **Vault of Dumathoin** — who leads the order? Is Cororic a member, a leader, or a heretic of it? — **Cororic is just a member** (ruled 2026-08-21: "Cororic is just a member.") The order's actual leader remains unknown — stays open on the order's page.
 - [ ] **The kuo-toa choir** — are the acolytes members of the Vault, servants of the Witness, or something else? Do the kuo-toa of the gorge (Nyx's fish-folk) serve the Witness, or their own god?
 
 ## ⚔️ Contradictions

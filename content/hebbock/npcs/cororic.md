@@ -18,7 +18,7 @@ The party was hired to bring Cororic home, kindly. What they found instead: a ke
 
 ## Details
 - Race: dwarf
-- Former role: holy man / keeper of treasures, Vault of Dumathoin
+- Former role: holy man / keeper of treasures, Vault of Dumathoin — **just a member of the order, not its leader** (ruled 2026-08-21)
 - State: alive, entranced — smiling, *pleasant*, and counting
 
 ## Appearance

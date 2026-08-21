@@ -21,7 +21,7 @@ status: draft
 - Recover lost members. Cororic vanished into the deep a generation ago; something now calls the townsfolk in his voice, and the order will mount an expedition to bring him home, kindly.
 
 ## Leadership
-- _Unknown. See [[../../_questions|_questions.md]] — who leads the order? Cororic is a "holy man" / "keeper of treasures," but is he the leader, or just a member?_
+- **Cororic is just a member** — not the leader, not a heretic (ruled 2026-08-21). Who actually leads the order remains unknown — see [[../../_questions|_questions.md]].
 
 ## Members
 | Name | Role | Notes |

@@ -43,7 +43,7 @@ Grim, chain mail, mace. (More detail in the chronicle — to be expanded.)
 ## Relationships
 - [[hebbock/npcs/cororic|Cororic]] — the lost saint he is sworn to "rescue"; now the Witness's smiling herald.
 - [[hebbock/factions/vault-of-dumathoin|Vault of Dumathoin]] — his claimed order.
-- [[campaigns/quiet-door/characters/pim|Pim]] — dangerously fascinated by his intensity of purpose.
+- [[campaigns/quiet-door/characters/pim|Pim]] — dangerously fascinated by his intensity of purpose; the subject of [[campaigns/quiet-door/songs/pims-lamp-for-the-furnace-man|The Deep's Little Lamp for the Furnace Man]].
 - [[hebbock/npcs/sister-maugra|Sister Maugra]] — a smite or two has been exchanged.
 
 ## Affiliations

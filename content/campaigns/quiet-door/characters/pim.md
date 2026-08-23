@@ -43,7 +43,7 @@ Small; proper; a gnome-sized body that carries a drow-sized dose of brain cane w
 
 ## Relationships
 - [[hebbock/npcs/vesque|Vesque]] — her fellow guide; the first to die.
-- [[campaigns/quiet-door/characters/baelson|Baelson]] — "Nobody in the Underdark announces their intentions." She is fascinated.
+- [[campaigns/quiet-door/characters/baelson|Baelson]] — "Nobody in the Underdark announces their intentions." She is fascinated. A bardic ballad on the fascination lives at [[campaigns/quiet-door/songs/pims-lamp-for-the-furnace-man|The Deep's Little Lamp for the Furnace Man]].
 - [[hebbock/locations/hargate-delve|The deep]] — her home.
 
 ## Campaign

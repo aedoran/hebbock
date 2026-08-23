@@ -60,6 +60,7 @@ wiki/
 │       ├─ locations/     # locations only relevant to this campaign
 │       ├─ items/         # campaign loot & notable items
 │       ├─ arcs/          # the campaign's plot arcs
+│       ├─ songs/         # bardic works / creative works (one per piece)
 │       └─ sessions/      # one page per session
 ├─ projects/              # non-campaign active work
 ├─ calendar/              # dated notes & events
@@ -111,7 +112,7 @@ status: draft                       # draft | canonical | disputed
 
 **`type` values:**
 - World tier: `world` · `location` · `faction` · `item` · `creature` · `npc` · `worldbuilding`
-- Campaign tier: `campaign` · `party` · `pc` · `arc` · `session`
+- Campaign tier: `campaign` · `party` · `pc` · `arc` · `session` · `song` (bardic / creative works within a campaign)
 
 **`status` meaning**
 - `draft` — I wrote it from the notes; details may be unconfirmed.
@@ -554,6 +555,36 @@ status: draft
 ## Details
 ## Related
 - [[locations/slug|...]]
+```
+
+### Song / bardic work (in `campaigns/<slug>/songs/`)
+```markdown
+---
+title: ""
+slug: ""
+type: song
+aliases: []
+tags: [song, <campaign-slug>]
+created:
+updated:
+status: draft
+campaign: ""
+---
+# Title
+> One-line summary of the piece.
+
+## Provenance
+Who composed it (the bard / a character), when, and why.
+
+## The Words
+The full lyrics / text.
+
+## About
+- [[characters/slug|...]] — who it's about
+- [[hebbock/...|...]] — world entities it touches
+
+## Where It Appears
+- [[sessions/session-xx|...]] — when it was sung, if in-play
 ```
 
 ---

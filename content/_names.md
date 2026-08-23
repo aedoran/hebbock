@@ -94,6 +94,7 @@ updated: 2026-08-21
 | Pim | `pim` | ("Pimp" was a one-time brain-cane joke, not a formal alias — ruled 2026-08-21) | pc | [[campaigns/quiet-door/characters/pim\|Pim]] |
 | Cororic's Compass | `corricos-compass` | | item | [[campaigns/quiet-door/items/corricos-compass\|Cororic's Compass]] |
 | Cororic's Notebook | `corricos-notebook` | the kuo-toa notebook | item | [[campaigns/quiet-door/items/corricos-notebook\|Cororic's Notebook]] |
+| The Deep's Little Lamp for the Furnace Man | `pims-lamp-for-the-furnace-man` | the Pim and Baelson song | song | [[campaigns/quiet-door/songs/pims-lamp-for-the-furnace-man\|The Deep's Little Lamp for the Furnace Man]] |
 | Session I — It's Not a Wishing Well | `session-01` | | session | [[campaigns/quiet-door/sessions/session-01\|Session I]] |
 | Session II — The Vault of Dumathoin | `session-02` | | session | [[campaigns/quiet-door/sessions/session-02\|Session II]] |
 | Session III — Squeeze Out the Magic | `session-03` | | session | [[campaigns/quiet-door/sessions/session-03\|Session III]] |

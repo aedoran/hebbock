@@ -5,13 +5,15 @@ type: npc
 aliases: [the eye, the counting thing, the Witness]
 tags: [npc, hebbock, quiet-door, enemy]
 created: 2026-08-20
-updated: 2026-08-20
+updated: 2026-08-28
 status: draft
 ---
 
 # The Witness
 
 > *The thing behind the eye. It is counting.*
+
+![[the-witness.png|480]]
 
 ## Overview
 The heart of [[campaigns/quiet-door/arcs/the-counting-dark|The Counting Dark]]. An eye — eight feet up, lidless, ethereal, "a black hole the mind slid off of, impossible to focus on" — floats above the exact center of the mass grave in the [[hebbock/locations/cathedral-of-dumathoin|Cathedral of Dumathoin]]. It is counting people. It reached a number in the party's shared dream, paused, and *has not yet counted them*.
